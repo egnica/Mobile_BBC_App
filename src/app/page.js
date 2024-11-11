@@ -29,9 +29,7 @@ export default function Home() {
       </Link>
       <br />
       <h3 style={{ textAlign: "center" }}>WIFI</h3>
-      <h4 style={{ textAlign: "center" }}>
-        Network Name: ******* <br></br> Password: *******
-      </h4>
+      <h4 style={{ textAlign: "center" }}>Network Name: Station West Guest</h4>
       <br />
       <h3 style={{ textAlign: "center" }}>Sponsors</h3>
       <div className="spons-contain">
