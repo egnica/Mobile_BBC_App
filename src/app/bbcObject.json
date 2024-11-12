@@ -250,8 +250,8 @@
       "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/DiscussionGroup-What-Differentiates-A-Top-Banker.pdf",
       "speakers": [
         {
-          "name": "Mark Trinkle",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MarkTrinkle-square.png",
+          "name": "Christopher Mott",
+          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/silhouette150x200.jpg",
           "company": "Anthony Cole Training Group, LLC",
           "title": "Chief Growth Officer",
           "bio": "Mark is a sales-experienced training veteran who possesses extensive financial services experience in delivery, role-play, recruiting, onboarding and coaching sales leaders and salespeople. Mark is also the community bank practice leader and delivers sales and sales leadership workshops across the country to associations such as ABA, Bank CEO Network, IBAT, NYBA and American Banker and now Barlow Research. He has a great passion to ignite prosperity in individuals and companies by helping them close the sales opportunity gap.<br/><br/>For 31 years, Anthony Cole Training Group has been helping community banks and other financial service organizations close their sales opportunity gap by helping them sell better, coach better and hire better. Utilizing science-based, data-driven research and working hand-in-hand with clients, ACTG evaluates the organization, the market, and current individual and company strengths. Our skilled and sales-experienced Sales Development Experts then help to align company strategies and implement customized Sales Managed Environment® framework that fosters sales growth and production. Our financial focus, customized programming, sales-experienced personnel, and owner’s perspective have made us the Community Banking source for revenue growth. Our Mission: Grow People, Grow Organizations."
@@ -310,7 +310,7 @@
       "title": "AI Adoption in Regulated Financial Industries: Opportunities and Challenges",
       "time": "3:05 pm",
       "description": "While opportunities abound, the adoption of AI in regulated financial industries presents a complex set of challenges that institutions must navigate carefully.  Regulatory compliance remains a primary concern, with institutions grappling with evolving and often unclear AI-specific regulations while ensuring adherence to existing financial rules.  While data integrity and privacy issues are paramount, the potential for algorithmic bias and the lack of transparency in AI decision-making processes pose significant risks, particularly in areas like lending and insurance.  This talk will present an accessible discussion of the advantages of AI and the challenges that stem from training data and Blackbox models.",
-      "assets": "",
+      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/AI-Adoption.pdf",
       "speakers": [
         {
           "name": "Ramnath Chellappa",
