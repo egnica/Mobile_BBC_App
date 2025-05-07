@@ -545,24 +545,40 @@
   ],
   "sponsors": [
     {
-      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/autobooks-logo.png",
-      "url": "https://www.autobooks.co/"
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/ebankit.webp",
+      "url": "https://www.ebankit.com/"
     },
     {
-      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/DFT_Logo.png",
-      "url": "https://www.dragonflyft.com/"
-    },
-    {
-      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/IBISWorld.png",
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/IBISWorld.webp",
       "url": "https://www.ibisworld.com/"
     },
     {
-      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/relpro.png",
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/ignitesales.png",
+      "url": "https://ignitesales.com/"
+    },
+    {
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/relpro.webp",
       "url": "https://relpro.com/"
     },
     {
-      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/VerticalIQ.png",
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/Sympera.webp",
+      "url": "https://sympera.ai/"
+    },
+    {
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/t2c.webp",
+      "url": "https://www.trust2connect.ai/"
+    },
+    {
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/VerticalIQ.webp",
       "url": "https://verticaliq.com/"
+    },
+    {
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/visa.png",
+      "url": "https://usa.visa.com/"
+    },
+    {
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/sponsors/zsuite.webp",
+      "url": "https://zsuitetech.com/"
     }
   ]
 }
