@@ -3,12 +3,14 @@
     {
       "id": "",
       "title": "",
+      "day": "",
       "time": "",
       "description": "",
       "assets": "",
       "speakers": [
         {
-          "name": "",
+          "fName": "",
+          "lName": "",
           "photo": "",
           "company": "",
           "title": "",
@@ -20,14 +22,16 @@
   "event": [
     {
       "id": "101",
-      "title": "Breakfast",
-      "time": "7:30 am",
+      "title": "Innovation Showcase Opens",
+      "day": "tues",
+      "time": "9:00 am",
       "description": "",
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "company": "",
           "title": "",
           "bio": ""
@@ -35,362 +39,530 @@
       ]
     },
     {
-      "id": "102",
-      "title": "Opening Introductions",
-      "time": "8:00 am",
-      "description": "",
+      "id": "100",
+      "title": "Opening Remarks",
+      "day": "tues",
+      "time": "10:00 am",
+      "description": "Opening Remarks",
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
-          "title": "",
-          "bio": ""
-        }
-      ]
-    },
-    {
-      "id": "103",
-      "title": "Empowering Small Businesses: How Truist Drives Success and Growth by Helping Business Owners Achieve More",
-      "time": "8:15 am",
-      "description": "Hear from Truist’s Edward Lopez, SVP, Head of Client Journey - Small Business, regarding the use of innovative approaches to leverage both technology and human touch to care for small business owners in our communities and support their efforts to achieve more.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Empowering-Small-Businesses.pdf",
-      "speakers": [
-        {
-          "name": "Eddie Lopez",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/EddieLopez-Square.png",
-          "company": "Truist",
-          "title": "Senior Vice President Head of Client Journey, Small Business",
-          "bio": "A 25-year expert in client strategy, Eddie Lopez serves on the Truist Digital, Client Experience and Marketing (DCXM) Team as SVP, Head of Client Journey for Small Business Banking. In this role, Eddie leads the Small Business Journey Team of journey architects and service designers who design solutions for Truist business clients and the teammates who serve them. <br/><br/> Eddie joined Truist in May 2022 and recently served as Director of Small Business Client Experience and Segment Integration. He oversaw multi-channel enablement, integrated relationship management, client experience/VOC improvement, plus the new bi-weekly Small Business Activators live broadcast to all Truist branches. Under his leadership, Truist Small Business reached new high marks for overall satisfaction, Net Promoter Score, digital adoption and multi-product usage. <br/><br/>Previously, Eddie was VP of Customer Experience Strategy for Wells Fargo Merchant Services guiding multi-channel experience enhancements and integration with business banking. On the Customer Experience Leadership Team for Freeman, the global leader in live events, Eddie evolved the customer insights program and supported major customer initiatives while driving significant expense savings.<br/><br/>For 13 years, Eddie was the lead management consultant with Ipsos, one of the world’s largest market research firms. He worked with executives at America’s top companies to help them develop and execute winning customer experience strategies. Eddie served a broad array of leading companies like Microsoft, Merck, Sony, Target, Allstate and Kohler. He has also been an internationally featured presenter on customer experience management.<br/><br/>Eddie is a Certified Customer Experience Professional (CCXP) and Customer Experience Specialist (CXS). He is an active member of the Customer Experience Professionals Association (CXPA) and serves on the 2024 CXPA Diversity Advancement Committee. Eddie holds both an MBA in Strategic Marketing and a B.S. in Services Marketing from the W.P. Carey School of Business at Arizona State University. A dynamic presenter, he has spoken at banking and client experience conferences and is a featured speaker and panelist for the ASU Center for Services Leadership. For 25 years, he has been an ASU Alumni chapter leader and donor for the ASU Leadership Scholarship Program. Eddie represents Truist on the Latin American Chamber of Commerce Charlotte and has held leadership positions in INROADS, Toastmasters International and the City of Scottsdale Human Relations Commission.<br/><br/> A native of Globe, Arizona, Eddie and his wife Anne reside in Uptown Charlotte and have three sons aged 24, 21 and 19. He enjoys spending time with his family, playing golf, cooking, and attending local theater and sporting events."
-        }
-      ]
-    },
-    {
-      "id": "104",
-      "title": "Economic Performance and Policy Considerations for 2025",
-      "time": "8:50 am",
-      "description": "Come November, we will perhaps have a clearer picture of the near-term trajectory for both fiscal and monetary policy paths on the eve of a new calendar year. This presentation will cover the current performance of the US economy and the key factors – policy and other – that will likely have an impact of economic performance heading into 2025.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Economic-Performance-and-Policy-Considerations.pdf",
-      "speakers": [
-        {
-          "name": "Matthew Martin",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MattMartin-Square.png",
-          "company": "Federal Reserve Bank of Richmond",
-          "title": "Regional Executive",
-          "bio": "Matt Martin is a regional executive at the Federal Reserve Bank of Richmond. He is based in the Charlotte office, where he leads the bank's outreach efforts across North Carolina and South Carolina.<br/><br/>As part of the nation's central bank, the Richmond Fed supports the monetary policy process by engaging business, banking, and community leaders throughout the District to gain a real-time understanding of the state of the economy and the challenges facing our communities. As the regional executive, Martin has responsibility for these efforts across the two-state area through a range of activities, including a regional Board of Directors, industry roundtables, speaking engagements, and other undertakings.<br/><br/>Martin joined the Richmond Fed as a regional economist in 2006 and was promoted into his current role in 2009. Prior to joining the Bank, he worked as a senior economist for Moody's Analytics and as an analyst at the Congressional Budget Office. He also spent time as a faculty member at Kent State University where he taught macroeconomics, money and banking, and economic history.<br/><br/>Martin is active in the community having served as past chair of the board for Community Link, a housing non-profit where he continues to serve on the Strategic Planning Committee. He currently serves as a board member for Veteran's Bridge Home, an organization that helps veteran's transition to civilian life. He is also a board member for the North Carolina Council for Economic Education and the Belk School of Business Advisory Board at the University of North Carolina Charlotte. And he recently served as a member of the Charlotte Mecklenburg Opportunity Task Force.<br/><br/>A Pennsylvania native, Martin has a bachelor's degree in economics from the U.S. Military Academy at West Point and a doctorate in economics from the University of Delaware, which he earned after completing his military service."
+          "fName": "Henry",
+          "lName": "Munez",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Henry-Munez.png",
+          "company": "BMO U.S. ",
+          "title": "Vice Chair",
+          "bio": "Henry J. Munez is Vice Chair, BMO U.S. with client development responsibilities that maximize profitable revenue growth across all LOBs from Commercial Banking, Wealth Management, Personal & Business Banking and Capital Markets. As a chief connector, multi-generational relationship building is a key tenet for sustaining success; and Henry makes each relationship personal and local – one client, one colleague, and one community at a time. Henry is a proud Chicagoan – born in Humboldt Park, raised in Highland Park, and is currently living as “empty nesters” with his wife Erin in the Wicker Park neighborhood for nearly 30 years. Henry holds a joint M.B.A. from Northwestern University’s Kellogg School of Management and York University’s Schulich School of Business (“Kellogg-Schulich”), as well as a B.A. in Economics and Finance with a minor in Psychology from the University of Illinois Urbana-Champaign.<br/><br/>Prior to his executive appointment, Henry was Head of Specialty Markets Group, BMO Commercial Bank U.S. with P/L responsibilities for several U.S. businesses: (i) Asset Based Lending, (ii) Food, Consumer & Agribusiness, (iii) Franchise Finance, (iv) Mid-Corporate Banking, and (v) Healthcare. Henry was also BMO’s Illinois Market Executive and Segment Head of Commercial Middle Market and Diversified Industries Group-Illinois. Before joining BMO in 2008, Henry was Managing Director, Division Head at LaSalle Bank N.A., leading a team in the National Institutional Real Estate Group, covering private equity sponsors and real estate operating companies based in New York, Boston, and Washington, D.C. markets. He started his banking career as a credit analyst at LaSalle in the early 1990s and has been a relationship manager for commercial and industrial middle-market companies.<br/><br/>Henry is also very active in the community. He currently serves on the executive board for Chicago Botanic Garden as Government Affairs Chair and is a Director for the Western Golf Association (a/k/a Evans Scholars Foundation) on its Long-Range Planning Committee. He has previously served on the executive boards of Boys Hope Girls Hope of Illinois (Chair), the National Kidney Foundation of Illinois (Vice Chair), the Chicago Youth Symphony Orchestras (Vice Chair), Leading India’s Future Today, Boys & Girls Clubs of Chicago Associate Board and is a member of the Economic Club of Chicago."
         }
       ]
     },
     {
       "id": "105",
-      "title": "Three Questions You Should Ask Your CFO",
-      "time": "9:25 am",
-      "description": "Join Scott Hildenbrand, the Chief Balance Sheet Strategist and Head of Depository Fixed Income at Piper Sandler and John Barlow as they discuss evolving business customer behaviors, tepid loan demand, and the rapid rise of private credit. They'll explore how interest rate forecasting has impacted asset liability management in banks of all sizes and the role of AI in this evolving landscape. Discover insights on the future of business banking, CFO responsibilities, and how the rise of fintechs and private credit may reshape the traditional banking model.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Three-Questions-You-Should-Ask-Your-CFO.pdf",
-      "speakers": [
-        {
-          "name": "Scott Hildenbrand",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/ScottHildenbrand-Square.png",
-          "company": "Piper Sandler",
-          "title": "Head of Depository Fixed Income",
-          "bio": "Scott Hildenbrand serves as chief balance sheet strategist and head of depository fixed income at Piper Sandler.<br/><br/>Previously, he was a principal and chief balance sheet strategist of Sandler O’Neill + Partners, L.P. He headed the balance sheet analysis and strategy group, working with financial institutions on balance sheet strategy development, which includes interest rate risk management, investment portfolio strategy, retail and wholesale funding management, capital planning, budgeting, and stress testing. Hildenbrand also worked closely with the firm’s investment banking group to identify and develop strategic opportunities for clients involved in mergers and acquisitions.<br/><br/>Hildenbrand previously worked in Sandler O’Neill’s interest rate products group, focusing on developing and implementing structured wholesale funding strategies for financial institutions. He spent his first four years at the firm in the asset/liability management group. Prior to joining Sandler O’Neill in 2004, Hildenbrand worked as a financial analyst in asset/liability management at Tower Federal Credit Union in Maryland.<br/><br/>Hildenbrand was elected to the Financial Managers Society in 2021. He also serves as treasurer on the board of directors for Liam’s Room, a non-profit organization that focuses on pediatric palliative care, a specialized approach to medical care for children with serious illnesses.<br/><br/>He is a frequent speaker at industry conferences and seminars. He holds a Master of Business Administration degree in finance from Loyola College in Maryland and a bachelor’s degree with a concentration in accounting and finance from Gettysburg College."
-        },
-        {
-          "name": "John Barlow",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/JohnBarlow-Square.png",
-          "company": "Barlow Research Associates, Inc.",
-          "title": "President",
-          "bio": "John Barlow was a founder of Barlow Research in 1980 and is responsible for overall business strategy and research methodology. In his position he works with clients to understand their strategic needs and develops research methods for multi-client and proprietary research assignments. John graduated from the University of Iowa in 1972, and is a graduate of the ABA School of Commercial Lending and past President of the Minnesota Chapter of the Bank Marketing Association. Prior to Barlow Research he worked for Norwest Bank where he was a commercial lender and manager of marketing activities for the commercial, international and trust divisions of a regional bank. John and his wife Kathy, also a principal in the company, live in northwest Florida near scenic 30a."
-        }
-      ]
-    },
-    {
-      "id": "106",
-      "title": "Balancing Digital Innovation with Personal Connection in Small Business Banking: TD Bank’s Approach to Exceptional Customer Service",
-      "time": "10:10am",
-      "description": "Even in a digital age, personal connections remain essential to delivering a top-tier customer experience. This session will explore how TD Bank excels in customer delight by fostering strong client relationships and providing outstanding digital solutions.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/BalancingDigitalInnovationwithPersonalConnection.pdf",
-      "speakers": [
-        {
-          "name": "Paul Margarites",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/PaulMargarites-Square.png",
-          "company": "TD Bank",
-          "title": "Head of Commercial Digital Channels",
-          "bio": "Paul has oversight over the next generation of digital platforms to provide best in class Online and Mobile capabilities. As part of the digital strategy, Paul is responsible for TD's API functionality and ensuring TD delivers an open banking infrastructure to support clients and FinTech partnerships. These new and improved capabilities will maximize value and enhance the Customer experience for TD Bank’s Commercial clients.<br/><br/>Paul has more than 15 years of experience in financial services focused on building and scaling digital products as well as developing comprehensive strategies for global banks. He joins TD from J.P. Morgan Chase (JPM), where he was responsible for fintech partnerships and blockchain-based products for its treasury management business. Previously, Paul spent time at PwC where he led risk and capital projects at several global banks. Additionally, Paul founded PwC's RegTech practice, which uses technology to manage regulatory processes. As a result, Paul formed several partnerships with emerging RegTechs that deploy emerging technology to reduce fraud."
-        },
-        {
-          "name": "Tom Pretty",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/TomPretty-Square.png",
-          "company": "TD Bank",
-          "title": "Head of SBA Lending",
-          "bio": "Tom Pretty is the Head of SBA Lending at TD Bank, America's Most Convenient Bank®. In this role, he leads a team of Small Business Administration experts who originate and manage the Bank's SBA portfolio, including SBA Express, 7(a) 504 and USDA loans. Under Tom's leadership, TD has become the #1 SBA lender on the east coast and the team has proudly held this position for the past 7 years. Tom also led the PPP lending program at TD, where TD helped over 130,000 small businesses during the pandemic.<br/><br/>Prior to joining TD in November 2015, Tom worked with GE Capital for 20 years where he led successful teams and developed a track record of growth in SBA & commercial lending.<br/><br/>Tom holds a bachelor's degree from the University of Colorado-Boulder, Leeds School of Business. Tom is Married with 3 active kids, loves watching & playing sports, particularly golf and skiing."
-        },
-        {
-          "name": "Sandy Hanson,",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2023/images/presenters/SandyHanson.png",
-          "company": "Barlow Research Associates, Inc.",
-          "title": "Managing Partner, Treasurer and Small Business Program Director",
-          "bio": "Sandy became a Managing Partner at Barlow Research in 2020. She is responsible for the ongoing development and management of the Small Business Banking Program. Sandy has over 15 years of experience studying small business banking behaviors and working to support our clients’ initiatives with the Voice of the Small Business customer. In addition, she has extensive experience with custom research in the small business and middle market business segments. Sandy also serves as the Treasurer of the company. Sandy received her Bachelor's of Science in Psychology from the University of Wisconsin-Superior and her Master's of Science in Applied Psychology at the University of Wisconsin-Stout. In her free time, she enjoys spending time with her family, listening to live music and traveling."
-        }
-      ]
-    },
-    {
-      "id": "107",
-      "title": "Break",
-      "time": "10:45 am",
-      "description": "",
+      "title": "Welcome and Introductions",
+      "day": "tues",
+      "time": "10:10 am",
+      "description": "Welcome and Introductions",
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
-          "company": "",
-          "title": "",
-          "bio": ""
-        }
-      ]
-    },
-    {
-      "id": "108",
-      "title": "Shaping the Future: Trends and Innovations in Digital Business Banking",
-      "time": "11:00 am",
-      "description": "This session will bring together leaders from Capital One and Regions Bank to explore the latest trends and transformative shifts in digital business banking.  Discussion topics will include digital engagement patterns, and advancements in digital capabilities such as cash flow management, payments offerings and security.  The panel will also explore the role of AI in revolutionizing digital servicing, from chatbots and virtual assistants to predictive analytics and beyond.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Shaping-the-Future.pdf",
-      "speakers": [
-        {
-          "name": "Tanya Kirwan",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/TanyaKirwan-Square.png",
-          "company": "Regions",
-          "title": "VP Small Business Banking Digital Solutions and Payment Strategy",
-          "bio": "Tanya Kirwan is a VP at Regions Bank with 20 years of experience in the banking industry and forever experience in the small business world. A kid of small business owners and married to one. 'You think I’d know better'.<br/><br/>Her career has been a diverse one, spanning various institutions including American Express, Kabbage, Truist, PNC, RBC, and RBS. Throughout her tenure, Tanya has 'had the privilege of learning from a multitude of different institutions, each with their own distinct banking philosophies.'<br/><br/>Tanya has assumed numerous roles within the banking industry, from the role of a branch teller to that of a product manager. She places a strong emphasis on leveraging real-world experiences to develop solutions that facilitate a more efficient and stress-free environment for clients.<br/><br/>Digital experiences in every sector fuel her passion. 'Banks are no longer just competing with each other; they are competing with every other digital experience that a client has today.'<br/><br/>Learning how small businesses operate from the 'school of hard knocks', Tanya has become a fierce advocate for the often-overlooked needs of small businesses.<br/><br/>By blending her personal experiences with a strategic vision, Tanya pushes for the development of streamlined and intuitive digital solutions for all clients.<br/><br/>Her vision is to 'create a world where customers truly feel like they have a partner in their bank. A partner who is as invested in their success as they are.'"
-        },
-        {
-          "name": "Zoe Zhou",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/ZoeZhou-square.png",
-          "company": "Capital One Bank",
-          "title": "Business Director, Digital Product Strategy and Insights",
-          "bio": "Zoe Zhou is a seasoned professional in the banking and card payment industries with over 15 years of experience across multiple disciplines including product innovation, business analysis, and partnerships. She is currently leading the Digital Product Strategy and Insights team at Capital One Small Business Bank to support the bank's digital expansion agenda. Prior to that, she held various leadership roles at Citibank including CX strategy, payment partnerships and product marketing and analytics. She has been recognized throughout her career as a generalist with well-rounded skills and proficiency in transitioning insights into strategy and then into actionable plans and ultimately into results."
-        },
-        {
-          "name": "Vidya Vishal",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/VidyaVishal-square.png",
-          "company": "Barlow Research Associates, Inc.",
-          "title": "Digital Business Banking Director",
-          "bio": "Vidya leads the Digital Business Banking program at Barlow Research Associates. With a robust background in Financial Services, Vidya has held pivotal senior leadership roles at Equifax and Truist, and has also contributed her expertise to fintech startups. Her strategic acumen, creativity, and rigorous execution have consistently delivered impactful results throughout her career.<br/><br/>Vidya holds an M.B.A. from The Fuqua School of Business, Duke University, and an Electronics and Communications Engineering degree from a renowned university in India. Based in Atlanta, Vidya enjoys balancing her professional life with family activities, board engagements, a passion for reading, and travel."
-        }
-      ]
-    },
-    {
-      "id": "109",
-      "title": "Key Criteria Diverse Business Owners Prioritize in Financial Partnerships",
-      "time": "11:35 am",
-      "description": "This panel session will explore what diverse business owners in the middle market focus on when selecting a financial partner, shedding light on their distinct preferences and priorities. In addition, we will delve into strategies for cultivating stronger relationships with diverse-owned businesses, ensuring their loyalty and satisfaction.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Key-Criteria-Diverse-Business-Owners-Prioritize.pdf",
-      "speakers": [
-        {
-          "name": "Cathy Callahan",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/CathyCallahan-Square.png",
-          "company": "Bank of America",
-          "title": "Northeast Regional Executive Business Banking SVP",
-          "bio": "Cathy Callahan, Business Banking Northeast Region Executive and Senior Vice President, is based in NJ and leads banking teams serving mid-sized privately held companies in all sectors from Maine to Delaware. She and her team provide a client experience that is local, digital and advisory in 15 markets and 9 states throughout the Northeast. They deliver a variety of integrated financial solutions, including treasury, credit, risk management, and wealth management, to help companies grow, prosper and invest for the future.<br/><br/>Cathy joined predecessor bank, FleetBank, in 2003 and has served in a variety of leadership roles. Most recently, she was New Jersey market executive for Global Commercial Banking. Previously, she has served as senior relationship manager, sales performance manager and risk partner in Global Commercial Banking, with coverage in the New York Metro, New Jersey and Pennsylvania markets. Prior to joining the bank, she held roles at Chase Manhattan Bank, UBS, SwissBank Corp and First Minneapolis. In addition, Cathy has had several entrepreneurial ventures.<br/><br/>Cathy holds a BSFS from Georgetown University and an International Business Degree from Stichting Nijenrode, The Netherlands School of Business. Actively involved in her community, Cathy is chair of the Board of Trustees of her alma mater, St. Dominic Academy in Jersey City; a trustee of TriCounty Scholarship Fund; a member of the NJ Economic Recovery Advisory Board and Choose NJ; a member of the Harding Historical Society; and a friend of Harding Land Trust. Previously, she was actively involved as a volunteer with PDA Soccer club; Kent Place School in Summit, NJ; served as president of the Executive Board of St. Peter’s Prep Parent’s Association in Jersey City, NJ; as a Finance Committee member of her church; and as a member of the Maplewood, NJ Planning Board and Zoning Board of Adjustment."
-        },
-        {
-          "name": "Marvin Clark",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MarvinClark-Square.png",
-          "company": "JP Morgan Chase",
-          "title": "Southeast Segment Head of Diverse Businesses in Commercial Banking",
-          "bio": "Marvin Clark serves as the Southeast Segment Head of Diverse Businesses in Commercial Banking at JP Morgan Chase. In this role, he leads the firm's strategy across the Southeast market, supporting diverse and underserved mid-sized companies aiming for strategic growth. Marvin collaborates closely with local banking teams, acting as the subject matter expert for client acquisition and ongoing relationships with Diverse Businesses.<br/><br/>Before joining JP Morgan Chase, Marvin spent 15 years as a Senior Commercial Relationship Manager at Wells Fargo. His extensive career also includes roles at Bank of America and Citi Corp, amassing over 25 years of experience in commercial banking and relationship management.<br/><br/>Marvin is based in Washington D.C. He holds an undergraduate degree in International Finance and Economics from Old Dominion University's Strome College of Business Administration and an MBA from The College of William & Mary. Additionally, he has completed Executive Education courses at Wharton.<br/><br/>In his spare time, Marvin is an avid cyclist and abstract painter. He is also actively involved in the community, serving on various boards dedicated to ending homelessness. "
-        },
-        {
-          "name": "Megan Seitchik",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MeganSeitchik.png",
-          "company": "Barlow Research Associates, Inc.",
-          "title": "Middle Market Program Director",
-          "bio": "Megan joined Barlow Research Associates, Inc. in June 2022 as the Middle Market Program Director. She received her Bachelor’s in Psychology and Economics from Denison University and continued on to Wake Forest University for her Master’s degree in Psychology and The Graduate Center at City University of New York for her Ph.D. in Industrial/Organizational Psychology.<br/><br/>Prior to joining Barlow Research, Megan was with J.P. Morgan Chase for 12 years and was the Director of Research and Market Intelligence for the Commercial Bank for 7 years.<br/><br/>In her free time, Megan enjoys spending time with her family, traveling, and being outdoors."
-        }
-      ]
-    },
-    {
-      "id": "110",
-      "title": "Lunch & Networking",
-      "time": "12:05 pm",
-      "description": "",
-      "assets": "",
-      "speakers": [
-        {
-          "name": "",
-          "photo": "",
-          "company": "",
-          "title": "",
-          "bio": ""
-        }
-      ]
-    },
-    {
-      "id": "111",
-      "title": "Vendor Hall",
-      "time": "1:00 pm",
-      "description": "",
-      "assets": "",
-      "speakers": [
-        {
-          "name": "",
-          "photo": "",
-          "company": "",
-          "title": "",
-          "bio": ""
-        }
-      ]
-    },
-    {
-      "id": "112",
-      "title": "Discussion Group: What Differentiates a Top Banker from a Mediocre One?",
-      "time": "1:30 pm",
-      "description": " Today’s fierce competition, rising interest rates and declining NIM have shifted the role of the business banking relationship manager. Specific sales skills are required to differentiate and win the business. Most banks have RMs in their group who are skilled at identifying primary relationships and properly leveraging them. What are those lenders and RMs doing differently than others?",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/DiscussionGroup-What-Differentiates-A-Top-Banker.pdf",
-      "speakers": [
-        {
-          "name": "Christopher Mott",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/silhouette150x200.jpg",
-          "company": "Anthony Cole Training Group, LLC",
-          "title": "Chief Growth Officer",
-          "bio": "Mark is a sales-experienced training veteran who possesses extensive financial services experience in delivery, role-play, recruiting, onboarding and coaching sales leaders and salespeople. Mark is also the community bank practice leader and delivers sales and sales leadership workshops across the country to associations such as ABA, Bank CEO Network, IBAT, NYBA and American Banker and now Barlow Research. He has a great passion to ignite prosperity in individuals and companies by helping them close the sales opportunity gap.<br/><br/>For 31 years, Anthony Cole Training Group has been helping community banks and other financial service organizations close their sales opportunity gap by helping them sell better, coach better and hire better. Utilizing science-based, data-driven research and working hand-in-hand with clients, ACTG evaluates the organization, the market, and current individual and company strengths. Our skilled and sales-experienced Sales Development Experts then help to align company strategies and implement customized Sales Managed Environment® framework that fosters sales growth and production. Our financial focus, customized programming, sales-experienced personnel, and owner’s perspective have made us the Community Banking source for revenue growth. Our Mission: Grow People, Grow Organizations."
-        }
-      ]
-    },
-    {
-      "id": "113",
-      "title": "Discussion Group: Unlocking Business Banking Potential: How Data & Analytics Fuel Growth and Fight Fraud",
-      "time": "1:30 pm",
-      "description": "Boston Consulting Group (BCG) and Markaaz, a leading global business identity platform for financial institutions and businesses, will lead an interactive discussion on the transformative power of data and analytics (D&A) in Business Banking to propel growth, combat fraud, and reduce risk. From incorporating cutting-edge data models and infrastructure to aggregating internal data with robust global data sets to unlock timely insights, you’ll learn practical uses to drive new client acquisition, increase client retention, and support compliance initiatives.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Unlocking-Business-Banking-Potential.pdf",
-      "speakers": [
-        {
-          "name": "Ryan Curley",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/CurleyRyan-Square.png",
-          "company": "Boston Consulting Group",
-          "title": "Managing Director and Partner",
-          "bio": "Ryan Curley leads the Business Banking segment globally for BCG. He is a core member of the financial institutions practice and works primarily with banking clients across North America and around the world on strategy and transformation topics, including growth strategy, target operating model, end-to-end process transformation and other strategic priorities for business leaders. He also serves a number of non-banking players who serve the small business segment, including tax preparers, data providers and other service providers."
-        },
-        {
-          "name": "Hany Fam",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/HanyFam-square.png",
-          "company": "Markaaz",
-          "title": "Founder and CEO",
-          "bio": "Hany is a transformational leader, entrepreneur, and visionary with extensive experience in both large corporations and startups/scale-ups.<br/><br/>With over 30 years of global leadership roles in business transformation and creation, Hany has proven expertise in payments, B2B platforms, enterprise partnerships, and technology, consistently driving innovation and delivering success.<br/><br/>Hany is the Founder & Chief Executive Officer of Markaaz Inc., the world’s first and only global platform providing real-time prospecting, verification, and monitoring for businesses. Markaaz is pre-populated with over 480 million businesses globally and powered by more than 65,000 data sources, serving both small businesses and large enterprises.<br/><br/>Previously, Hany served as the Chief Executive Officer of AXA Global Enterprise and Partnerships for AXA Group, where he led innovation by building new marketplaces and exchanges in Small Business, Healthcare, and Mobility.<br/><br/>Prior to that, Hany was the Founder and President of Mastercard Enterprise Partnerships, where he led the creation of the world’s first global trading platform, Mastercard Track. He also held several executive positions at Mastercard, including President of the UK & Ireland Markets. There, he was responsible for the market’s transformation, including the launch of the UK contactless payments infrastructure, a solution now implemented in over 700 cities worldwide. His team also launched the Priceless London campaign, which evolved into the Priceless Cities and City Possible platforms.<br/><br/>Before joining Mastercard, Hany launched the consulting business of Edgar Dunn & Company in Asia/Pacific, served as Deputy CEO of CashCard Australia Limited, and was Chief Technology Officer for Toshiba International (Heavy Industrial) in Australia. He began his career as a Nuclear Physicist in Australia.<br/><br/>Hany holds undergraduate degrees in Nuclear Physics and a Double Masters in Finance, Banking, and International Business (MBA) (MBus) with Honors."
-        }
-      ]
-    },
-
-    {
-      "id": "114",
-      "title": "Creating Innovative Customer-Focused Experiences",
-      "time": "2:30 pm",
-      "description": "This session will delve into the transformation of product development over the past five years, highlighting the adaptations made by banks to align with changing client needs. It will also examine key insights and demonstrate how integrating agile principles into the product design process has led to ongoing enhancements to better address the challenges faced by business owners. Specific examples will center around innovations and technologies in money movement, digital services, treasury management and bill pay solutions.",
-      "assets": "",
-      "speakers": [
-        {
-          "name": "Kristen Link",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/KristenLink-square.png",
-          "company": "U.S. Bank",
-          "title": "SVP, Product Lead",
-          "bio": "Kristen Link is currently SVP of Business Banking Integrated Experience Product for U.S. Bank. In this role, she focuses on bringing together the bank's banking, software, and payments products into one seamless experience for its small businesses. Over the last 20 plus years her scope and charter has grown, from selling banking products to leading consumer credit to building the digital solutions clients need."
-        },
-        {
-          "name": "Youa Yang",
-          "photo": "https://www.barlowresearch.com/businessbankingconference_2024/images/presenters/YouaYang.png",
-          "company": "Barlow Research Associates, Inc.",
+          "fName": "Youa",
+          "lName": "Yang",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/YouaYang.png",
+          "company": "Barlow Research",
           "title": "Managing Partner and COO",
           "bio": "Youa is a Managing Partner and Chief Operating Officer at Barlow Research. She provides leadership and general day-to-day management to the company’s teams. She is also responsible for leading, guiding and executing on the company’s vision and ensuring alignment with Barlow’s goals. With more than 20 years of market research experience, Youa aims to foster a growth-oriented and positive environment to continue Barlow’s gold standard in business banking research. Youa holds a B.A. from the University of Minnesota-Duluth and attended the University of Wisconsin, Stout. In her spare time, she enjoys spending time with her family and friends and traveling the world."
         }
       ]
     },
     {
-      "id": "115",
-      "title": "AI Adoption in Regulated Financial Industries: Opportunities and Challenges",
-      "time": "3:05 pm",
-      "description": "While opportunities abound, the adoption of AI in regulated financial industries presents a complex set of challenges that institutions must navigate carefully.  Regulatory compliance remains a primary concern, with institutions grappling with evolving and often unclear AI-specific regulations while ensuring adherence to existing financial rules.  While data integrity and privacy issues are paramount, the potential for algorithmic bias and the lack of transparency in AI decision-making processes pose significant risks, particularly in areas like lending and insurance.  This talk will present an accessible discussion of the advantages of AI and the challenges that stem from training data and Blackbox models.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/AI-Adoption.pdf",
+      "id": "106",
+      "title": "Breaking Down Silos: ",
+      "secondTitle": "Adapting to the Future of Banking",
+      "day": "tues",
+      "time": "10:20 am",
+      "description": "In an era marked by advanced technologies, heightened competition, and shifting workplace dynamics, the future of banking requires a new approach. Join Pradip Patiath, Senior Partner with McKinsey & Co, as he explores the critical challenges facing large financial institutions over the next decade. Discover how breaking out of functional silos and adopting a holistic understanding of your role can help your bank thrive in a rapidly evolving social and economic landscape.",
+      "assets": "",
       "speakers": [
         {
-          "name": "Ramnath Chellappa",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/RamnathChellappa-Square.png",
-          "company": "Goizueta Bustiness School, Emory University",
-          "title": "Founding Program Dean & Academic Director (MSBA), Professor of Information Systems & Operations Management",
-          "bio": "Dr. Ramnath K. Chellappa is the founding program dean and academic director of the Master of Science in Business Analytics program at Goizueta Bustiness School, Emory University where he is also a professor of Information Systems and Operations Management. He is a visiting professor at the Indian School of Business, Hyderabad and previously served on the faculty of Marshall School of Business, University of Southern California.<br/><br/>Prof. Chellappa is widely published in the fields of economics of platforms, pricing, and piracy. His current research focuses on the impact of AI on business and society. He has won numerous awards for his research and teaching including the Provost’s Distinguished Teaching Award for Excellence in Graduate and Professional Education. He received his PhD from the McCombs School of Business at the University of Texas in Austin in 1997 where his work provided the first scholarly definition of the term 'Cloud Computing'.<br/><br/>Prof. Chellappa works closely with the industry on AI implementation adoption and frequently serves as a litigation expert on technology-related cases. He is often quoted in the popular media on the impact of AI and other technologies."
+          "fName": "Pradip",
+          "lName": "Patiath",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Pradip-Patiath.png",
+          "company": "McKinsey & Company",
+          "title": "Senior Partner",
+          "bio": "Pradip Patiath is a Senior Partner at McKinsey & Company and senior global leader in McKinsey’s Financial Services and Digital practices. Over the years, he has led several of McKinsey’s global practices, including Consumer/Business Banking, Digital Insurance, and Midwest Financial Services. He has also been the Managing Partner of the Digital McKinsey office in the Midwest and Canada.<br/><br/>Over the past two decades, Mr. Patiath has served clients in the banking, wealth management, insurance, private equity, asset management, payments and FinTech sectors on issues of strategy, growth, organization, turnarounds, M&A, distribution, operations and digital transformation, and has personally led a number of business builds and major performance transformations. His experience has spanned North America and several international markets across the U.K., Europe, South America and Asia. He has authored several leading publications, most recently on the topic of disruption and rapid digitization within financial services. He is a frequent public speaker and commentator at major global financial services and technology industry conferences.<br/><br/>Mr. Patiath’s prior experience has included building an enterprise software company in the digital insurance sector as President and COO of CCC Information Services. Previously, he also worked for Honeywell, Inc. in Minneapolis, MN, and for Schlumberger in Paris, France. He was awarded a US patent in the field of real-time digital transaction systems. Mr. Patiath is very active in Chicago’s civic community. He recently served as the Chair of the Board of the Adler Planetarium of Chicago, and serves on several other Boards, including Northwestern University’s Kellogg School Global Advisory Board and the Chicago Humanities Festival. He is also a member of the Economic Club of Chicago and is actively involved with and supports several civic institutions, including Marwen, American India Foundation, the Field Museum and the Art Institute of Chicago.<br/><br/>Mr. Patiath holds an MBA degree with distinction from Northwestern University’s Kellogg School of Management. He also holds an MS degree in computer science and received his BS degree in mechanical engineering from Indian Institute of Technology, New Delhi."
         }
       ]
     },
     {
-      "id": "116",
-      "title": "Funding Dreams: The Financial Journey of an Entrepreneur",
-      "time": "3:40 pm",
-      "description": "Barlow Research is pleased to feature small business entrepreneur, Emily Green, CEO and Founder of Emily Green LLC at the Barlow Business Banking Conference in Charlotte, NC on November 12. Emily will discuss her journey as a small business owner of multiple businesses and how she successfully started two businesses over six years, expanding her communications business into 10 states. Emily will share her insights as an entrepreneur and shed light on the importance of strategic partnerships, building connections and how financial institutions can best help to navigate financial highs and lows.",
-      "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Funding-Dreams-The-Financial-Journey-of-an-Entrepreneur.pdf",
+      "id": "107",
+      "title": "Catapulting Into 2025: ",
+      "secondTitle": "What’s in Store for Small and Mid-Sized Businesses?",
+      "time": "11:05 am",
+      "day": "tues",
+      "description": "Barlow Research continuously collects data from small businesses and middle market companies about the state of their financial conditions and their outlook on the future. We are pleased to be able to present our latest findings on how businesses are reacting to a new administration, new policy changes and new challenges. We are also excited to be joined by Karen Kerrigan, President & CEO of the Small Business & Entrepreneurship Council (SBE), who will provide her unique perspective on the state of the current business environment. ",
+      "assets": "",
       "speakers": [
         {
-          "name": "Emily Green",
-          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/EmilyGreen-square.png",
-          "company": "Emily Green LLC",
-          "title": "CEO & Founder",
-          "bio": "Emily Green has founded multiple businesses including Grace Communications, a marketing agency that services clients across the country, and Emily Green LLC, her personal brand that focuses on her public speaking, solopreneur consulting, and personal & professional development workshops. She is passionate about making a difference with everything that she does. In addition to being an entrepreneur, she is also involved in the community. Currently, Emily is the Co-Chair of the Charlotte Area Chamber of Commerce Women in Business Committee. In her role, she helps plan and lead monthly events and their annual Empowering Women in Business Conference. She is also a wife, mom, runner, and loves to travel."
+          "fName": "Karen",
+          "lName": "Kerrigan",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Karen-Kerrigan.png",
+          "company": "Small Business & Entrepreneurship Council",
+          "title": "President & CEO",
+          "bio": "For nearly thirty years Karen Kerrigan’s leadership, advocacy and training work has helped foster U.S. entrepreneurship and global business growth.  She is  president & CEO of the <a style='color: blue;' href='https://sbecouncil.org/'> Small Business & Entrepreneurship Council</a>, and is the group’s chief advocate for its members. In January 2024, Kerrigan received certification as a Health and Wellness Coach. Kerrigan regularly testifies before the U.S. Congress on a wide range of issues impacting entrepreneurs, startups, investment and the economy. She has been appointed to numerous federal advisory boards including the <a style='color: blue;' href='https://www.nwbc.gov/'>National Women’s Business Council</a> , the U.S.-Iraq Business Dialog, the U.S. Treasury’s Taxpayer Advisory Panel, and the National Advisory Committee for Labor Provisions of U.S. Free Trade Agreements. Kerrigan regularly engages with the President’s cabinet and key advisors, and has spoken or led roundtables at White House economic summits, scores of events hosted by the Small Business Administration, U.S. Treasury Department, Securities and Exchange Commission and other federal government agencies and departments. She is a collaborative and well-respected individual within the business and think-tank community who has led numerous coalitions and initiatives with diverse partners and organizations. She has also served on NAWBO’s Advisory Council, Verizon’s Consumer Advisory Board, and the Domenici-Rivlin Debt Reduction Task Force, among other advisory roles over the course of her career. She also serves on the board (and chairs the Health, Wellness and Fitness Committee) of the Vienna Business Association, and the Bayh-Dole Coalition. She has written hundreds of Op-Eds and newspaper columns, and regularly appears on national television and talk radio programs. Kerrigan regularly appears on Fox Business to provide analysis and commentary on the latest economic data, what’s driving the markets, and the outlook for the economy, entrepreneurship and small business growth.<br/><br/><a style='color: blue;' href='https://sbecouncil.org/2018/11/30/karen-kerrigan-leadership-for-smallbiz/'> Accolades for Karen’s work</a>.<br/> She has been called America’s “entrepreneurial envoy” and “small business ambassador” for her extensive speaking, knowledge sharing and capacity-building work overseas. Kerrigan is a founding member of the World Entrepreneurship Forum and has provided counsel to governments and business associations across the globe regarding entrepreneurial development, capacity building, policy formation and implementation. She has traveled to Belarus, Kazakhstan, Tunisia, Israel, Morocco, Nepal, the Palestinian territories, among many other nations on behalf of the U.S. State Department to work with business leaders, women and youth entrepreneurs, and government officials on advancing reforms and programs to encourage entrepreneurship, investment, and business growth.  Kerrigan is a board member/audit committee Chair and former board Chair of the <a style='color: blue;' href='https://www.cipe.org/'> Center for International Private Enterprise (CIPE)</a>, one of the core institutes of the National Endowment for Democracy, which works to strengthen democracy around the globe through private enterprise and market-oriented reforms. She is a <a style='color: blue;' href='https://worldin2050.diplomaticourier.com/brain-trust/'> World in 2050 Brain Trust</a> member of the Diplomatic Courier. “The hardest working woman in show business,” <br/><br/>The Hill BizTech Magazine named Kerrigan to its <a style='color: blue;' href='https://biztechmagazine.com/article/2020/11/30-small-business-it-influencers-follow-2020'> Small Business Influencer IT List</a> in November 2020. In July 2018, Kerrigan was named to Fit Small Business’s “Top Small Business Influencers of 2018.”  She was presented with the “Crowdfundie Award” at the 2017 Global Crowdfunding Convention for her leadership and advocacy on crowdfunding issues. In November of 2017, the Global IP Center of the U.S. Chamber <a style='color: blue;' href='https://sbecouncil.org/2017/11/15/u-s-chambers-global-ip-center-honors-ip-leaders-sbe-councils-kerrigan-receives-excellence-in-advocacy-award/'>Kerrigan with its “Excellence in Advocacy” award</a> for her work on strengthening IP protections, and for her advocacy and outreach regarding the importance of IP for investment, innovation and entrepreneurship.  In 2014, 2013, 2012 and 2011 she was named a Top 100 Champion Small Business Influencer by Small Business Trends.  CEO World Magazine named Kerrigan a <a style='color: blue;' href='https://sbecouncil.org/2013/11/08/ceo-world-names-sbe-councils-kerrigan-a-top-power-women-in-u-s-crowdfunding/'>'Top Power Woman in Crowdfunding”</a> (November 2013),  and in May 2016 she was presented with the New Capital Markets Leadership Award by the Crowdfund Intermediary Regulatory Advocates (CFIRA) and Crowdfund Capital Advisors for her steadfast leadership and work in making equity and debt-based crowdfunding legal. InNovember of 2009 Kerrigan was awarded the “Small Business Advocate of the Year” by the NY Enterprise Report.  Among media accolades, Inc. Magazine named Kerrigan to its small business “Best Friends in D.C.” (2006) list as a <a style='color: blue;' href='https://www.inc.com/magazine/20060201/dc-brokers.html'> “power broker and activist”</a> with “serious clout” for entrepreneurs; Fortune Small Business to its “Power 30” list (2000); and The Hill newspaper to its “most influential small business” list (2006) describing Kerrigan as “the hardest working woman in show business.”  In 1995, National Journal named Kerrigan to its short list of “K Street” activists most likely to have an impact on Capitol Hill. Campaigns and Elections Magazine named her as one of its “Rising Stars in Politics” in its April 1996 issue.  She lectures frequently at colleges and universities, making appearances at Harvard Business School, Georgetown University, University of Maryland, Ohio State University and many others including institutions outside of the United States. Kerrigan graduated from SUNY Cortland with a B.A. in Political Science, and she currently serves on the Cortland College Foundation Board. She resides with her family in Northern Virginia.<br/><br/>Twitter: @KarenKerrigan<br/>Linked In: /karenkerrigan"
+        },
+        {
+          "fName": "Joel",
+          "lName": "Mueller",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/JoelMueller.png",
+          "company": "Barlow Research",
+          "title": "Managing Partner and Research Director",
+          "bio": "Joel is a Managing Partner and the Research Director at Barlow Research. He heads up Barlow Research's proprietary & custom research division and serves as the manager of the analyst team. He is responsible for the strategy, administration, analysis and reporting of various proprietary & custom studies. Joel specializes in both small business and middle market research and has led large-scale research initiatives in small business lending, small office/home office businesses and vertical/industry value proposition analyses. Joel graduated from University of Wisconsin-Stout, where he earned both a bachelor's degree in psychology and a master's degree in applied psychology with concentrations in evaluation research, industrial-organizational psychology and health promotion & disease prevention. In his free time, Joel enjoys woodworking, camping and spending time with his family and friends."
         }
       ]
     },
     {
-      "id": "117",
-      "title": "Concluding Remarks",
-      "time": "4:15 pm ",
+      "id": "104",
+      "title": "Lunch",
+      "day": "tues",
+      "time": "11:35 am",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "company": "",
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+
+    {
+      "id": "103",
+      "title": "Winning Wallet Share with Industry Data",
+      "day": "tues",
+      "time": "12:45 pm",
+      "description": "Today's banking landscape demands more of bankers. Businesses are looking to their financial institutions for more than just basic services—they want strategic support to help them grow. This shift has led to a growing emphasis on banks gaining a better understanding of their customers. This approach allows banks to better understand their clients' needs by leveraging data tailored to the customer's business needs. This not only strengthens customer conversations but also fosters deeper, more lasting relationships. In this session, you'll explore how industry-specific research can equip banks to meet these evolving expectations and create stickier ties with business clients.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Will",
+          "lName": "Christoferson",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/WillChristoferson.png",
+          "company": "Sibco Creative & Sibco Strategies",
+          "title": "Co-Founder of Sibco Creative and founder of Sibco Strategies",
+          "bio": "Will is the Co-Founder of Sibco Creative and founder of Sibco Strategies, a business development and marketing firm focused on empowering financial institutions with smarter engagement, better tools, and stronger client connections. Before launching his own firm, Will served as Executive Vice President and Chief Marketing Officer of a publicly traded bank that grew from $8 billion to over $13 billion. He led enterprise marketing and sales strategy across 70+ branch locations and commercial lending teams, helping drive both organic growth and deeper customer relationships. He also served as Commercial Insights and Commercial Sales Enablement Strategy Lead at Truist, equipping bankers with the insights and resources to win high-value business. Now, as a business owner himself, Will brings a rare dual perspective of helping banks think more like business owners and helping business owners think like bankers. A proud West Texan, he believes great business development efforts start with curiosity, end with clarity, and occasionally include a spreadsheet or two."
+        },
+        {
+          "fName": "Martin",
+          "lName": "Punt",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/MartinPunt.png",
+          "company": "IBISWorld",
+          "title": "Relationship Manager",
+          "bio": "Martin has worked on the Business Development & Client Service teams at IBISWorld since 2019 with a specialization across Regional and Community Banks to develop sales playbook strategies. Analyzing past Barlow conference attendance sheets from events IBISWorld has attended, he currently manages to relationships of more than 50% of the banks represented - so there's a good chance you already know him. An avid soccer fan, and a former player himself, Martin enjoys conversation around the sport, and also brings the same competitive nature to support his customers."
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "title": "Digital Business Banking Panel: ",
+      "secondTitle": "Leveling Up the Digital Banking Stack",
+      "day": "tues",
+      "time": "1:40 pm",
+      "description": "As banks face rising customer expectations and the need for greater agility, many are rethinking the foundations of their digital platforms, and investing in their technology stack. In this fireside chat, hear how one leading financial institution is transitioning from a homegrown digital banking system to a modern third-party solution as part of a larger digital transformation. We’ll explore what is driving the shift, what outcomes they are looking to drive, and how they are managing change across both internal teams and customer touchpoints. Walk away with insights and practical guidance for navigating your own modernization journey.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Kate",
+          "lName": "Daley",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Kate-Daley.png",
+          "company": "M&T Bank",
+          "title": "Senior Vice President, and Business Banking Digital & Payments Product Manager",
+          "bio": "Kate Daley, Senior Vice President, and Business Banking Digital & Payments Product Manager at M&T Bank. Kate has been at M&T Bank for over 20 years in various roles across Finance and Business Banking, most recently driving strategy and new or improved capabilities for payment solutions and digital channels for small businesses."
+        },
+        {
+          "fName": "Vidya",
+          "lName": "Vishal",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/VidyaVishal.png",
+          "company": "Barlow Research",
+          "title": "Digital Business Banking Director",
+          "bio": "Vidya leads the Digital Business Banking program at Barlow Research Associates. With a robust background in Financial Services, Vidya has held pivotal senior leadership roles at Equifax and Truist, and has also contributed her expertise to fintech startups. Her strategic acumen, creativity, and rigorous execution have consistently delivered impactful results throughout her career.<br/><br/>Vidya holds an M.B.A. from The Fuqua School of Business, Duke University, and an Electronics and Communications Engineering degree from a renowned university in India. Based in Atlanta, Vidya enjoys balancing her professional life with family activities, board engagements, a passion for reading, and travel."
+        }
+      ]
+    },
+
+    {
+      "id": "109",
+      "title": "Wintrust Data Hub: ",
+      "secondTitle": "Enhancing Commercial Reporting & Connectivity",
+      "day": "tues",
+      "time": "2:15 pm",
+      "description": "As owners and shareholders command higher returns, business leaders and their finance and operations teams are increasingly becoming more and more data driven.  Management teams aspire to create efficiencies and integration with their accounting and ERP systems and desire better insights from their bank to enhance decision making.  Discover how Wintrust is solving this gap for its business customers through the evolution of its Data Hub.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Kam",
+          "lName": "Kniss",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Kam-Kniss.png",
+          "company": "Wintrust",
+          "title": "Executive Vice President, Digital Channels & Transaction Banking",
+          "bio": "Kam Kniss serves as executive vice president of digital channels and transaction banking, overseeing the company’s treasury management, international banking, and commercial & digital product teams. Kam and his teams support Wintrust’s deposit-generating initiatives and maintain product management responsibilities for customer facing banking applications.<br/><br/>Kam has over 16 years of financial experience and has worked at Wintrust since 2010. His previous roles include serving as the CEO of Wheaton Bank & Trust Company, group senior vice president of commercial banking and sponsor finance with Wintrust Commercial Banking, and other roles in commercial banking. <br/><br/>He received bachelor’s degrees in business management and sports management with a minor in finance from North Central College.<br/><br/>Kam credits his success to two life mottos:<br/><br/>1. 'To much is given, much is expected.' Kam’s college football coach would frequently counsel his team, 'In life, you are never given more than you can handle.'<br/><br/>2. 'The importance of practice.' While Kam is a firm believer that everything happens for a reason, success is driven by preparation and honing a skill set, which is not given but earned through hard work.<br/><br/>Kam serves on the board of directors for Chicago United, DuPage Children's Museum, and DuPage Housing Solutions. He previously served as a director for DuPage Pads and coached youth football, baseball, and basketball teams. While on the PADS board, he helped the organization purchase its first permanent shelter in Downers Grove.<br/><br/>Kam lives in Naperville with his wife and three children. In his free time, he enjoys coaching his kids' sports teams, working out, date nights with his wife, following North Central College athletics, and spending time with family and friends. "
+        },
+        {
+          "fName": "Chris",
+          "lName": "Lantman",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Chris-Lantman.png",
+          "company": "Wintrust",
+          "title": "Senior Vice President, Director of Commercial Products, Payments and Technical Product Sales",
+          "bio": "Chris Lantman is a senior product executive with over 25 years of experience driving innovation in the banking and financial services sector.  He currently is the Director of Commercial Products, Payments and Technical Product Sales at Wintrust Financial Corporation, where he oversees the design and delivery of digital banking and payment solutions that serve the evolving needs of business clients.  Throughout his career, Chris has played leadership roles in delivering modern, data-driven platforms that align and balance the needs of both internal stakeholders and external business and consumer segments.<br/><br/>Chris holds an MBA and a B.A. in Business Administration and Accounting from the University of Kansas.  He resides with his wife and three children in the Northwest Suburbs of Chicago.  "
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "title": "Innovation Showcase Break",
+      "day": "tues",
+      "time": "2:45 pm",
       "description": "",
       "assets": "",
       "speakers": [
         {
           "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "company": "",
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+
+    {
+      "id": "112",
+      "title": "From Transactions to Intelligence: ",
+      "secondTitle": "The Wells Fargo Shift to Data-Driven Banking",
+      "day": "tues",
+      "time": "3:20 pm",
+      "description": "This session will examine the financial services evolution at Wells Fargo from an eye-to-eye business model through a whirlwind of digital transformation where providers strive to move to data driven decision making platforms vs a collection of one-off transaction flows launched from a home page (the industry standard). Additionally, learn what the impact is to the bank from a business models perspective and to the business clients who continue to be at the center of everything.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Chris",
+          "lName": "Fritz",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Chris-Fritz.png",
+          "company": "Wells Fargo",
+          "title": "Director of the Lending and Investment Banking (Capital Markets) Digital Journeys",
+          "bio": "Chris is the Director of the Lending and Investment Banking (Capital Markets) Digital Journeys. In this role, he and his team are transforming the wholesale digital journey from a traditional task-based experience into a data-driven, decision-making platform that facilitates simple execution.<br/><br/>The team is employing market and proprietary data with digital design and AI driven workflows to make each user’s experience bespoke.  Their work is done in partnership with CB and CIB teams as well as with the Treasury, Onboarding, and Self-Service Digital Product Teams. Chris is also a new host of Wells Fargo’s Treasury Takeaways podcast.<br/><br/>Chris came to Wells Fargo in 2022 from Charles Schwab where he was the Managing Director of the Digital Trading Experiences. In this role Chris and team defined and delivered a comprehensive and improved digital trading strategy which included the award-winning Schwab Stock Slices and the Digital Trading Redesign. <br/><br/>Chris formerly held senior positions with SunTrust and JP Morgan serving as SVP and Head of Digital Solutions at SunTrust and Executive Director and Head of Online Payments, Integrated File Management, and Mobile for JP Morgan ACCESS. During his time managing these products they won multiple Greenwich Associates awards for being best in class. <br/><br/>Earlier in his career, Chris also held position as a commercial lender managing a portfolio of middle market clients and an underwriter for large corporate finance and leasing clients. Prior, Chris was a founding partner of Fenster auf G.m.b.H. an economic development firm serving Easter Europe from Vienna. In this role Chris was allowed to operate way over his skis providing equity, financing along with consulting services (primarily financial, operational and strategic).<br/><br/>Chris holds an MBA from Kellogg and a BA in Business and Economics from Wheaton College where he played basketball and football while also studying Theology and Art. <br/><br/>Chris and his family live outside of Chicago where he spends his time trying not to feel uneducated while his wife Aimee attends Seminary, twins Caleb and Zoe attend college and his youngest, Greta attends high school. "
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "title": "Unlocking Potential: ",
+      "secondTitle": "Empowering the Emerging Middle Market ",
+      "day": "tues",
+      "time": "4:00 pm",
+      "description": "Join Visa and the National Center for the Middle Market for an engaging fireside chat that dives deep into the dynamic U.S. Emerging Middle Market (EMM). In this session, you'll discover:<br><ul style='padding-left: 40px;'><li>Why the EMM Matters: Understand the pivotal role of the emerging middle market in driving innovation and economic growth.</li><li>Evolving Needs of Emerging Companies: Gain insights into the unique challenges and opportunities facing these businesses today.</li><li>Unlocking Future Potential: Explore actionable strategies and best practices designed to empower emerging companies to thrive in a competitive landscape.</li></ul>",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Doug",
+          "lName": "Ferren",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Doug-Ferren.png",
+          "company": "The National Center for Middle Market",
+          "title": "Managing Director of the National Center for the Middle Market",
+          "bio": "Doug Farren is the Managing Director of the National Center for the Middle Market at The Ohio State University Fisher College of Business. In his role, he leads the day-to-day operations of the Center, which include research, corporate outreach, and student activities in addition to long-range strategic planning and sponsor stewardship. Prior to launching the NCMM in 2011, he spent 10 years with LBrands, where he worked in various roles including Supply Chain Planning, Distribution Center Operations, and Financial Planning and Analysis supporting brands such as Victoria’s Secret and Bath and Body Works . Farren started with LBrands as a summer intern while completing his MBA in Operations and Logistics Management at Fisher.<br><br>Farren’s previous experience includes business management for Six Sigma Qualtec, a process improvement consulting firm based on Scottsdale, Arizona. His primary functions included marketing strategy and on-site training and implementation. As part of his responsibilities, he was certified in 1998 as a Six Sigma Black Belt in Transactional Quality. Farren attended Penn State University, where he earned a Bachelor of Science with a focus on business management and was a member of the football program as an athlete and student assistant coach."
+        },
+        {
+          "fName": "Edward",
+          "lName": "Galvin",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Edward-Galvin.png",
+          "company": "VISA ",
+          "title": "Vice President - Head of North America Sales - B2B Payments",
+          "bio": "Edward Galvin is a responsible for North America B2B  Commercial Payments Sales at Visa.   This role involves working consultatively with card issuing partners to grow Large & middle market commercial card portfolios and to ensure the optimal deployment of Visa solutions to support both the card issuer and end corporate needs.<br><br>In prior roles at Visa, Edward has been responsible for US Large Market product setting the strategy and executing on commercial product initiatives to grow the large market segment.   He has also managed the Engagement and Expansion team for Visa Business Solutions in Europe.   Edward initiated his career working as a Management Consultant for Deloitte in London, UK. Prior to joining Visa, Edward held a Sales Consulting position with First Data.<br><br>Edward graduated with a Bachelor of Commerce and a Masters of Science degrees (Accounting, Finance & Information) from University College Cork, Ireland.  Edward is an avid marathoner and runs an annual 26.2! He is an active mentor and a certified Co-Active Leadership coach.  Currently Edward mentors with American Corporate Partners supporting veterans transition to careers post their service.  Edward is a champion if Irish American community activities via his role on the IN Advisory Board and he is President of the Chicago Irish Film Festival."
+        },
+        {
+          "fName": "Megan",
+          "lName": "Seitchik",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/MeganSeitchik.png",
+          "company": "Barlow Research",
+          "title": "Middle Market Program Director",
+          "bio": "Megan joined Barlow Research Associates, Inc. in June 2022 as the Middle Market Program Director. She received her Bachelor’s in Psychology and Economics from Denison University and continued on to Wake Forest University for her Master’s degree in Psychology and The Graduate Center at City University of New York for her Ph.D. in Industrial/Organizational Psychology.Prior to joining Barlow Research, Megan was with J.P. Morgan Chase for 12 years and was the Director of Research and Market Intelligence for the Commercial Bank for 7 years.In her free time, Megan enjoys spending time with her family, traveling, and being outdoors."
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "title": "Wine Reception",
+      "day": "tues",
+      "time": "5:00 pm",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "title": "Evening free",
+      "day": "tues",
+      "time": "6:00 pm",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "title": "Greeting",
+      "day": "wed",
+      "time": "8:00 am",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "title": "Keynote: ",
+      "secondTitle": "Why Purpose Matters",
+      "day": "wed",
+      "time": "8:05 am",
+      "description": "Banking is built on numbers and risk management, but Amanda Brinkman makes a bold case: purpose is the key to lasting success. This isn’t just another talk about passion - it’s a strategic advantage. Amanda challenges the idea that success is purely financial, showing how purpose-driven professionals build stronger client relationships, drive innovation, and achieve better results. Through engaging stories and real-world examples, she reveals how aligning work with a deeper mission creates impact and long-term value. Attendees will leave with a fresh perspective and practical takeaways to see purpose in their work and lives.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Amanda",
+          "lName": "Brinkman",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Amanda-Brinkman.png",
+          "title": "Keynote Speaker + CEO ",
+          "company": "Sunshine Studios",
+          "bio": "Amanda is a producer, film-maker, branding expert and sought-after public speaker, sharing her 'Do Well By Doing Good” philosophy on stages around the country. She demonstrates how both companies and individuals can make a meaningful and positive difference in people’s lives, while fostering their own success in the process. She believes that companies must not only identify their brand purpose, but put that purpose into action.<br /><br />Through her work, Amanda has defined what it looks like for brands to truly act 'as publishers” creating movements through their content strategy. In her most recent demonstration of this, Amanda was the Chief Brand Officer of Deluxe where the brand challenge was to reach small businesses. The solution? She created, produced and hosted their Emmy-nominated series 'Small Business Revolution,” which streamed on Hulu and was named among Inc. Magazine’s top shows for entrepreneurs. Through this inspirational reality show, Amanda was able to prove the model of authentic content stretching a brand’s spend by achieving 12x the reach through this series over traditional paid media. The program accumulated over 13 Billion impressions, 6,000+ earned media articles and 20 million content views (and counting). Not to mention - this work changed lives, families, small businesses and communities across the country.<br /><br />Amanda is a nationally renowned brand expert, Forbes contributor, and frequent on-camera personality for national news outlets and celebrity interviews, ranging from LL Cool J to Peyton Manning. She has appeared on CNBC’s 'Cleveland Hustles,” in addition to hosting the online 'Small Talks” series that features successful entrepreneurs across the country. That’s all while charting an acclaimed career that spans groundbreaking campaigns for brands like BMW, Reebok and Sony, in addition to her role as an inspiring female executive at Fortune 500 and Fortune 1000 companies, such as United Health Group, Allianz, General Mills, and Deluxe. Amanda’s current and former board service includes the Children’s Cancer Research Fund, Make-A-Wish, the Children’s Theatre Company, the Ordway Performing Arts Center, Ad Council, ANA (Association of National Advertisers) and the Women’s Business Development Center. She also passionately volunteers for causes such as Special Olympics, Feed My Starving Children, Habitat for Humanity and more. She lives in Minneapolis with her husband (who happens to be her best friend), her daughter (who is a small but mighty force of nature) and their puppy (who is, of course, adorable)."
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "title": "Fueling Small Business Success: ",
+      "secondTitle": "Bank Resources that Drive Growth and Resilience",
+      "day": "wed",
+      "time": "9:05 am",
+      "description": "Small businesses are the backbone of local economies, but they continue to face complex challenges. This panel explores how financial institutions are stepping up with innovative solutions, including advances in digital tools, lending strategies, and unique partnerships, to meet the evolving needs of small business owners. Join us to learn how banks are combining technology with human touch to foster growth and resilience in their small business clients.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Rachel",
+          "lName": "Castro",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/RachelCastro.png",
+          "company": "U.S. Bank",
+          "title": "SVP of Business Banking Go-to-Market and Strategy",
+          "bio": "Rachel Castro is SVP of Business Banking Go-to-Market and Strategy for U.S. Bank. Her focus is on banking, software, and payments product strategy to help the bank support its business clients. Over the last four years her scope and charter has grown, starting with her role in a recent acquisition and has broadened to Strategy and Go-to-Market across the organization to serve small business needs.<br /><br />Prior to this role, she spent six years with The Boston Consulting Group's corporate incubation arm to invent, launch, and scale new businesses that leverage corporate assets and capabilities.<br /><br />Rachel graduated magna cum laude from UCLA with a Bachelor of Arts in Chinese language and a minor in English Literature."
+        },
+        {
+          "fName": "Brent",
+          "lName": "Harraman",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/BrentHarraman.png",
+          "company": "Comerica Bank",
+          "title": "SVP, Regional Director, Small Business Banking, Texas, Arizona, and Florida",
+          "bio": "Brent Harraman is Senior Vice President, Regional Director, Small Business Banking - Texas, Arizona, Florida, for Comerica Bank.<br /><br />Mr. Harraman is a 30-year veteran banker in the Houston market, with experience at various financial institutions such as Sterling Bank, First Bank, Southwest Bank of Texas and Bank of America.  He joined Comerica Bank in 2011 through the merger with Sterling Bank and served as SVP, Group Manager, Small Business Banking Specialists, serving the lending needs of Comerica's small business clients in Texas, Arizona, Florida, California, and Michigan until his promotion to Regional Director in 2022.<br /><br />His civic and community involvement includes serving on the Board of Directors for the East Fort Bend Human Needs Ministry.  He has served in various lay leadership positions at Sugar Land Methodist Church for the past fifteen years, and since 2009 has taught his adult Sunday school as well as leading/teaching a Friday morning men's Bible study.<br /><br />Mr. Harraman earned a bachelor's degree in Business Administration from Southern Methodist University in Dallas, and a master's degree in business administration from the Bauer School of Business at the University of Houston."
+        },
+        {
+          "fName": "Sandy",
+          "lName": "Hanson",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/SandyHanson.png",
+          "company": "Barlow Research",
+          "title": "Managing Partner, Treasurer and Small Business Program Director",
+          "bio": "Sandy became a Managing Partner at Barlow Research in 2020. She is responsible for the ongoing development and management of the Small Business Banking Program. Sandy has over 15 years of experience studying small business banking behaviors and working to support our clients’ initiatives with the Voice of the Small Business customer. In addition, she has extensive experience with custom research in the small business and middle market business segments. Sandy also serves as the Treasurer of the company. Sandy received her Bachelor's of Science in Psychology from the University of Wisconsin-Superior and her Master's of Science in Applied Psychology at the University of Wisconsin-Stout. In her free time, she enjoys spending time with her family, listening to live music and traveling."
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "title": "Digital + Human: ",
+      "secondTitle": "Earning Full Share of Wallet at Acquisition and Channel Optimization",
+      "day": "wed",
+      "time": "9:45 am",
+      "description": "This presentation will cover three key areas. First, we'll explore the dynamics of buying behaviors across different customer segments, focusing on how to effectively leverage both physical and digital sales channels.  Second, we'll discuss streamlining our business product offerings to better meet the payment, receivable, and lending needs of our clients. Finally, we'll delve into redefining digital engagement strategies specifically for small and medium-sized businesses.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Kamal",
+          "lName": "Rajan",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Kamal-Rajan.png",
+          "title": "Head of Business Services - Products",
+          "company": "Golden 1 Credit Union",
+          "bio": "Kamal Rajan joined Golden 1 Credit Union in 2024 and now serves as Head of Business Services – Products. Kamal is an accomplished financial services executive and brings over two decades of expertise in small business and business banking, with a proven track record of P&L management, balance sheet optimization, and product development across diverse segments in Commercial Lending, Payments, Treasury Management, Deposits & Cards, Sales, Marketing, and Digital Transformation. Rajan's career includes executive leadership roles at institutions like Wells Fargo, Bank of the West, and U.S. Bank."
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "title": "Break",
+      "day": "wed",
+      "time": "10:15 am",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "title": "The AI-Powered Banker: ",
+      "secondTitle": "Driving Growth with a Human Touch ",
+      "day": "wed",
+      "time": "10:30 am",
+      "description": "In their push for digital transformation, many banks have deprioritized the personal service that once set them apart. But it doesn’t have to be a tradeoff.</br></br> This session explores how AI-powered tools can guide business bankers behind the scenes—helping them manage a broader client base, stay proactive, and focus on the right opportunities. AI helps bankers scale personalized service without losing the human connection—by identifying customer needs and prompting timely, relevant conversations that lead to deeper, more profitable relationships.</br></br>Walk away with real-world examples and practical ideas you can apply immediately.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "David",
+          "lName": "Sosna",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/David-Sosna.png",
+          "company": "Sympera AI",
+          "title": "Founder and CEO",
+          "bio": "David Sosna is a serial entrepreneur with over 20 years of experience building innovative fintech startups. He founded and grew both Actimize, which set the standard in financial risk and compliance, and Personetics, a global leader in self-driving finance. His latest venture, Sympera AI, uses AI to help bankers prioritize clients, deepen relationships, and drive growth. With a strong background in engineering, data science, and digital banking, David is passionate about product innovation and creating solutions that put people first."
+        },
+        {
+          "fName": "Laurent",
+          "lName": "Desmangles",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/outline.png",
+          "company": "Retired",
+          "title": "Management Consultant",
+          "bio": "Laurent recently retired from Boston Consulting Group as a Managing Director and Senior Partner in New York after nearly 30 years advising banks. <br/><br/>A senior C-suite advisor with a global perspective, LD brings deep experience helping large organizations chart growth strategy, and execute large scale transformation, digital/analytics innovation and manage change.<br/><br/> LD is a deeply principled and thoughtful individual, with extensive experience helping organizations tackle complex challenges. Strengths include strategy, innovation, digital experience, analytics, culture and change.<br/><br/> He led BCG’s Retail Banking practice for North America, and co-led BCG’s Advanced Analytics practice in Financial Institutions globally."
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "title": "The Future of CX:",
+      "secondTitle": "Balancing Tech, Trust & Transformation",
+      "day": "wed",
+      "time": "11:20 am",
+      "description": "What does it take to build — and keep — a best-in-class customer experience in today’s dynamic banking environment? In this conversation with Ash Kulkarni, Managing Director, Digital Business Banking – Sales and Servicing from BMO, we’ll explore how customer experience (CX) strategy has evolved over the last five years, how small business products are developed through a customer-first lens, and how teams balance innovation with security and compliance. Expect a candid discussion on how data, primary research and cross-functional collaboration shape the final customer journey. We’ll also touch on what’s next — including the role of AI in reimagining CX for the future.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Ash",
+          "lName": "Kulkarni",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Ash-Kulkarni.png",
+          "company": "BMO",
+          "title": "Managing Director, Digital Business Banking – Sales and Servicing",
+          "bio": "Ash Kulkarni is a Digital leader with a track record of delivering award-winning banking experiences. He leads Digital Business Banking group at BMO, delivering digital onboarding journeys that provide clients with a fast, secure, and delightful experience. Recent highlights include building out Business deposits and lending sales capabilities to integrate BMO’s acquisition of Bank of the West and delivering an award-winning online Deposit Account open experience. Prior to his stint on Business Banking, Ash drove the bank’s Canadian Retail Deposits & Cards digital sales experiences to market-leader status by tripling deposit sales volumes within 5 years and earning BMO digital leadership recognition on the Forrester Canadian Digital Banking review. His teams succeed by placing the client at the heart of all experience decisions and embracing BMO’s mission to help clients make Real Financial Progress. In his spare time, Ash can be found reading a good thriller, entertaining the two family labradoodles, or (with limited success) trying to convert his 2-year old daughter into a Manchester United fan."
+        },
+        {
+          "fName": "Youa",
+          "lName": "Yang",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/YouaYang.png",
+          "company": "Barlow Research",
+          "title": "Managing Partner and COO",
+          "bio": "Youa is a Managing Partner and Chief Operating Officer at Barlow Research. She provides leadership and general day-to-day management to the company’s teams. She is also responsible for leading, guiding and executing on the company’s vision and ensuring alignment with Barlow’s goals. With more than 20 years of market research experience, Youa aims to foster a growth-oriented and positive environment to continue Barlow’s gold standard in business banking research. Youa holds a B.A. from the University of Minnesota-Duluth and attended the University of Wisconsin, Stout. In her spare time, she enjoys spending time with her family and friends and traveling the world."
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "title": "Building Scale Together: ",
+      "secondTitle": "Removing Friction Between Banks and High-Growth Companies",
+      "day": "wed",
+      "time": "11:50 am",
+      "description": "Discover firsthand insights from Boomer Muth on scaling a business from inception to over half a billion dollars in revenue, focusing on the critical role banking and financial partnerships play in growth trajectories. Learn about the friction points encountered, missed opportunities, and how embracing a high-leverage mindset—paired with the right people and technologies—can unlock exponential growth. This session synthesizes key learnings from the conference into actionable strategies for banking leaders seeking to enhance their impact and drive customer success.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Boomer",
+          "lName": "Muth",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Boomer-Muth.png",
+          "title": "Co-founder and Executive Vice Chair",
+          "company": "Koalafi",
+          "bio": "Boomer Muth is the Co-founder and Executive Vice Chair of Koalafi, a leading point-of-sale fintech company he scaled from startup to over $600 million in annual revenue. Koalafi partners with over 25,000 merchants nationwide—including HP—empowering underserved consumers through transparent and flexible financing solutions. The company's rapid growth has been recognized by Deloitte, and Forbes named Koalafi as one of America's best startup employers."
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "title": "Concluding Remarks + Take Away Lunch",
+      "day": "wed",
+      "time": "12:30 pm",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "title": "Business Banking Blueprint Roundtable - Invite Only",
+      "day": "wed",
+      "time": "1:00 pm",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
       ]
     }
   ],
-
   "sponsors": [
     {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/9_spokes.png",
-      "url": "https://9spokes.com/"
-    },
-    {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/AnthonyCole.png",
-      "url": "https://anthonycoletraining.com/"
-    },
-    {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/autobooks-logo.png",
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/autobooks-logo.png",
       "url": "https://www.autobooks.co/"
     },
     {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/BCG.png",
-      "url": "https://www.bcg.com/"
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/DFT_Logo.png",
+      "url": "https://www.dragonflyft.com/"
     },
     {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/deluxe.png",
-      "url": "https://www.deluxe.com/"
-    },
-    {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/IBISWorld.png",
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/IBISWorld.png",
       "url": "https://www.ibisworld.com/"
     },
     {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/Monit_Channel_Logo.png",
-      "url": "https://www.monitapp.io/"
-    },
-    {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/Perso_Logo_final.png",
-      "url": "https://personetics.com/"
-    },
-    {
-      "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/relpro.png",
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/relpro.png",
       "url": "https://relpro.com/"
+    },
+    {
+      "image": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/VerticalIQ.png",
+      "url": "https://verticaliq.com/"
     }
   ]
 }

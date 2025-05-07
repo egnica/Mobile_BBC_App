@@ -2,7 +2,7 @@
 "use client";
 import BBC from "../bbcObject.json";
 import arrow from "../../images/down-arrow.svg";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -13,6 +13,15 @@ const Agenda = () => {
   // };
 
   const [reveal, setReveal] = useState(0);
+  const [day, setDay] = useState("tues");
+  const [filteredEvents, setFilteredEvents] = useState([]);
+  useEffect(() => {
+    if (day === "") {
+      setFilteredEvents(BBC.event);
+    } else {
+      setFilteredEvents(BBC.event.filter((item) => item.day === day));
+    }
+  }, [day]);
 
   const eventClick = (id) => {
     reveal != id ? setReveal(id) : setReveal(0);
@@ -33,12 +42,32 @@ const Agenda = () => {
           <p>back</p>
         </Link>
       </div>
-
       <h1>Agenda</h1>
-      <h2>Nov. 12</h2>
+      <div className="daySelectCont">
+        <div className="daySelectBtn" onClick={() => setDay("tues")}>
+          Tuesday <br /> 5/13
+        </div>
+        <div className="daySelectBtn" onClick={() => setDay("wed")}>
+          Wednesday <br /> 5/14
+        </div>
+        <div className="daySelectBtn" onClick={() => setDay("")}>
+          All Dates <br /> 5/13-5/14
+        </div>
+      </div>
+
+      {day == "tues" ? (
+        <h2>Tuesday - May 13th</h2>
+      ) : day == "wed" ? (
+        <h2>Wednesday - May 14th</h2>
+      ) : (
+        <h2>
+          Tuesday & Wednesday <br />
+          May 13th - 14th
+        </h2>
+      )}
 
       <div>
-        {BBC.event.map((item, index) => {
+        {filteredEvents.map((item, index) => {
           return (
             <div key={index}>
               <div className="agenda-item">
@@ -60,14 +89,17 @@ const Agenda = () => {
                               href={{
                                 pathname: "speaker",
                                 query: {
-                                  name: person.name,
+                                  name: person.lName,
                                   pageFrom: "agenda",
                                 },
                               }}
                             >
                               <div className="speaker-pic-info" key={index}>
-                                <img alt={person.name} src={person.photo} />
-                                <p>{person.name}</p>
+                                <img alt={person.lName} src={person.photo} />
+                                <p>
+                                  {person.fName} {person.lName}
+                                </p>
+                                <p>{person.company}</p>
                               </div>
                             </Link>
                           </>
