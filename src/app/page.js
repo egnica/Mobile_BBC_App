@@ -18,7 +18,7 @@ export default function Home() {
           />
         </a>
         <h4 style={{ margin: "0" }}>Barlow Research&apos;s</h4>
-        <h2 style={{ margin: "0" }}> 2024 Business Banking Conference</h2>
+        <h2 style={{ margin: "0" }}> 2025 Business Banking Conference</h2>
       </div>
 
       <Link href="./agenda">
