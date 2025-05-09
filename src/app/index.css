@@ -160,3 +160,19 @@ a {
 .speaker-info {
   padding-left: 10px;
 }
+/*********************** Attendees LIST PAGE */
+.sortButtonCont {
+  display: grid;
+  place-content: center;
+  grid-template-columns: 1.5fr 0.5fr;
+}
+.arrowContain {
+  margin: auto;
+}
+.arrowBtn {
+  font-size: 1.3cm;
+  cursor: pointer;
+}
+.personContainer {
+  border-bottom: 1px #3c3c3c solid;
+}

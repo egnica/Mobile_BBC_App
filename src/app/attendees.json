@@ -1,0 +1,606 @@
+{
+  "Sheet1": [
+    {
+      "Company": "B2B SaaS/Fintech Consulting",
+      "ContactFL": "Kathryn Foley",
+      "Title": "GTM Leader"
+    },
+    {
+      "Company": "Bank of America",
+      "ContactFL": "Tasha Anderson",
+      "Title": "Vice President - Relationship Manager"
+    },
+    {
+      "Company": "Bank of America",
+      "ContactFL": "Freddy Igbinosa",
+      "Title": "SVP; Relationship Manager"
+    },
+    {
+      "Company": "Bank of America",
+      "ContactFL": "Michael Lutz",
+      "Title": "Strategic Support Executive"
+    },
+    {
+      "Company": "Bank of America",
+      "ContactFL": "Adam Mayer",
+      "Title": "Sr Digital Director "
+    },
+    {
+      "Company": "Bank of America",
+      "ContactFL": "John Scully",
+      "Title": "Head of Business Banking Digital Sales and Service"
+    },
+    {
+      "Company": "Bank OZK",
+      "ContactFL": "Nancy Sims",
+      "Title": "President - Business Banking"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "John Barlow",
+      "Title": "President"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Nicholas Egner",
+      "Title": "Developer"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Cassie Garcia",
+      "Title": "Administrative Assistant"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Sandy Hanson",
+      "Title": "Small Business Program Director"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Ray Johns",
+      "Title": "Senior Advisor"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Andrea Moore",
+      "Title": "Client Executive"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Joel Mueller",
+      "Title": "Managing Partner & Research Director"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Linda O'Connell",
+      "Title": "Senior Advisor"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Megan Seitchik",
+      "Title": "Middle Market Banking Program Director"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Natasha Turanov",
+      "Title": "Research Manager"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Vidya Vishal",
+      "Title": "Digital Business Banking Program Director"
+    },
+    {
+      "Company": "Barlow Research Associates, Inc",
+      "ContactFL": "Youa Yang",
+      "Title": "Managing Partner & COO"
+    },
+    {
+      "Company": "Bell Bank",
+      "ContactFL": "Melissa Deike",
+      "Title": "SVP, Director of Treasury Sales "
+    },
+    {
+      "Company": "Bell Bank",
+      "ContactFL": "Joan Gallagher",
+      "Title": "SVP Treasury Officer "
+    },
+    {
+      "Company": "Bell Bank",
+      "ContactFL": "Jill Wilson",
+      "Title": "SVP Treasury Management Team Lead "
+    },
+    {
+      "Company": "BILL",
+      "ContactFL": "Rachel De Dora",
+      "Title": "Director, Channel Marketing"
+    },
+    {
+      "Company": "BILL",
+      "ContactFL": "Rachel Melia",
+      "Title": "Strategic Partner Marketing"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Jim Duff",
+      "Title": "National Head of Banking/Head, U.S. Business Banking "
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Anitha Gengusetti",
+      "Title": "Senior Technology Officer"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Raju Katta",
+      "Title": "Director for Business Banking apps"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Uzma Kazmi",
+      "Title": "Head of Business Banking Sales "
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Rakesh Kilaru",
+      "Title": "STO"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Ashish Kulkarni",
+      "Title": "Managing Director, Digital Business Banking, Sales and Service"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Martin Manna",
+      "Title": "Vice President, Business Banking"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Henry Munez",
+      "Title": "Vice Chair"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Alanna Parsan",
+      "Title": "Director Business Banking Products and Sales Activation"
+    },
+    {
+      "Company": "BMO",
+      "ContactFL": "Vlatka Puljic ",
+      "Title": "Director of Strategic Initiatives Women Owned Businesses\r\n"
+    },
+    {
+      "Company": "California Bank & Trust",
+      "ContactFL": "Ash Abdelaaty",
+      "Title": "SVP / Business banking Division Manager"
+    },
+    {
+      "Company": "Capital One Bank",
+      "ContactFL": "Rishiraj Asthana",
+      "Title": "Business Manager"
+    },
+    {
+      "Company": "Chase",
+      "ContactFL": "Michael Hereda",
+      "Title": "VP Specialty Finance Consultant"
+    },
+    {
+      "Company": "Chase",
+      "ContactFL": "Carver Nabb",
+      "Title": "UX/CX Researcher"
+    },
+    {
+      "Company": "Chase",
+      "ContactFL": "Peter Steenveld",
+      "Title": "Head of Decision Sciences"
+    },
+    {
+      "Company": "Citibank",
+      "ContactFL": "Christian Conroy",
+      "Title": "SVP, Business Banking Sales & Strategy"
+    },
+    {
+      "Company": "Citibank",
+      "ContactFL": "Erin Pavacik"
+    },
+    {
+      "Company": "Citizens",
+      "ContactFL": "Jennifer Schade",
+      "Title": "Revenue Enablement Director"
+    },
+    {
+      "Company": "Citizens Bank",
+      "ContactFL": "Melissa Bello",
+      "Title": "VP Project Manager"
+    },
+    {
+      "Company": "Citizens Bank",
+      "ContactFL": "Lindsay Blakey",
+      "Title": "Head of Enablement Planning & Execution"
+    },
+    {
+      "Company": "Comerica",
+      "ContactFL": "Brent Harraman",
+      "Title": "SVP Texas Regional Director"
+    },
+    {
+      "Company": "Comerica",
+      "ContactFL": "Kyle Platt",
+      "Title": "Small Business Strategic Programs Manager"
+    },
+    {
+      "Company": "Deluxe",
+      "ContactFL": "Jackie Niemoth",
+      "Title": "Client Manager"
+    },
+    {
+      "Company": "Desert Financial Credit Union",
+      "ContactFL": "Sabrina Chambers",
+      "Title": "Strategy Program Manager"
+    },
+    {
+      "Company": "Desert Financial Credit Union",
+      "ContactFL": "Jason Huguez",
+      "Title": "Director of Business Development"
+    },
+    {
+      "Company": "Dreamteams LLC",
+      "ContactFL": "James Patterson",
+      "Title": "CEO"
+    },
+    {
+      "Company": "ebankIT",
+      "ContactFL": "Paul Provenzano",
+      "Title": "VP Market Development"
+    },
+    {
+      "Company": "FIS",
+      "ContactFL": "Mac Glore",
+      "Title": "Product Manager"
+    },
+    {
+      "Company": "FIS",
+      "ContactFL": "John Orgovan",
+      "Title": "Product Manager"
+    },
+    {
+      "Company": "Golden 1 Credit Union",
+      "ContactFL": "Gina Foley",
+      "Title": "Manager "
+    },
+    {
+      "Company": "Golden 1 Credit Union",
+      "ContactFL": "Sean Jones",
+      "Title": "Senior Product Manager"
+    },
+    {
+      "Company": "Golden 1 Credit Union",
+      "ContactFL": "Kamal Rajan",
+      "Title": "Head of  Business Products and Services"
+    },
+    {
+      "Company": "Golden 1 Credit Union",
+      "ContactFL": "Anthony Riddle",
+      "Title": "Director of Product Business Lending"
+    },
+    {
+      "Company": "Huntington National Bank",
+      "ContactFL": "Lash Chapel",
+      "Title": "SVP, Business Credit Card Product Director"
+    },
+    {
+      "Company": "Huntington National Bank",
+      "ContactFL": "Katrina Lasota",
+      "Title": "SVP"
+    },
+    {
+      "Company": "IBIS World",
+      "ContactFL": "Stephen Kane"
+    },
+    {
+      "Company": "IBIS World",
+      "ContactFL": "Martin Punt"
+    },
+    {
+      "Company": "IBIS World",
+      "ContactFL": "Kurt Salter"
+    },
+    {
+      "Company": "Ignite Sales",
+      "ContactFL": "Julie Hamrick",
+      "Title": "COO & Founder"
+    },
+    {
+      "Company": "Ignite Sales",
+      "ContactFL": "Connor Lynch",
+      "Title": "Director of Business Development"
+    },
+    {
+      "Company": "Ignite Sales",
+      "ContactFL": "Ken Patrick",
+      "Title": "Chief Growth Officer"
+    },
+    {
+      "Company": "JPMorgan Chase",
+      "ContactFL": "Christopher Coleman",
+      "Title": "Exec. Director Data Analytics"
+    },
+    {
+      "Company": "JPMorgan Chase",
+      "ContactFL": "Hilda Kong",
+      "Title": "Executive Director/Division SBA Solutions Manager"
+    },
+    {
+      "Company": "Koalafi",
+      "ContactFL": "Boomer Muth",
+      "Title": "Founder"
+    },
+    {
+      "Company": "M&T",
+      "ContactFL": "Nicolas Boesch",
+      "Title": "SVP - Voice of the Customer and Employee"
+    },
+    {
+      "Company": "M&T",
+      "ContactFL": "Kate Daley",
+      "Title": "Digital & Payments Product Manager"
+    },
+    {
+      "Company": "McKinsey & Company, Inc",
+      "ContactFL": "Pradip Patiath",
+      "Title": "Co-Leader"
+    },
+    {
+      "Company": "Minnwest",
+      "ContactFL": "Jarrod Hutchinson",
+      "Title": "Director of Small Business Solutions"
+    },
+    {
+      "Company": "National Center for the Middle Market",
+      "ContactFL": "Doug Farren",
+      "Title": "Managing Director"
+    },
+    {
+      "Company": "Personetics",
+      "ContactFL": "Tom Roberts",
+      "Title": "Head of Strategic Accounts & Business Development"
+    },
+    {
+      "Company": "PNC Bank",
+      "ContactFL": "Tracey Devyak",
+      "Title": "SVP Marketing Group Manager"
+    },
+    {
+      "Company": "PNC Bank",
+      "ContactFL": "Brandy Hoy",
+      "Title": "SVP Territory Executive"
+    },
+    {
+      "Company": "PNC Bank",
+      "ContactFL": "Preetha Nirmalan",
+      "Title": "Business Product Manager"
+    },
+    {
+      "Company": "PNC Bank",
+      "ContactFL": "Michael Phillips",
+      "Title": "Sr. Sales and Strategy Advisor"
+    },
+    {
+      "Company": "PNC Bank",
+      "ContactFL": "Nicholas Robinson",
+      "Title": "Head of Client and Employee Experience - Small Business"
+    },
+    {
+      "Company": "PNC Bank",
+      "ContactFL": "Charles Stitcher",
+      "Title": "SVP - Head of SMB Payment Products"
+    },
+    {
+      "Company": "PNC Bank ",
+      "ContactFL": "Marti Predovic",
+      "Title": "Product Manager"
+    },
+    {
+      "Company": "RelPro",
+      "ContactFL": "Sara Allen",
+      "Title": "Chief Growth Officer"
+    },
+    {
+      "Company": "RelPro",
+      "ContactFL": "Dan Goodwin",
+      "Title": "Sr. Account Manager"
+    },
+    {
+      "Company": "RelPro",
+      "ContactFL": "Lauren Meyers",
+      "Title": "Chief Customer Officer"
+    },
+    {
+      "Company": "RelPro",
+      "ContactFL": "Martin Wise",
+      "Title": "CEO"
+    },
+    {
+      "Company": "Santander",
+      "ContactFL": "Robert Korpak",
+      "Title": "VP Director Merchant Services & Payments"
+    },
+    {
+      "Company": "Sibco Creative & Sibco Strategies",
+      "ContactFL": "Will Christoferson"
+    },
+    {
+      "Company": "Small Business Entrepreneurship Council",
+      "ContactFL": "Karen Kerrigan",
+      "Title": "President & CEO"
+    },
+    {
+      "Company": "South State Bank",
+      "ContactFL": "Matt Vegter",
+      "Title": "SVP Director of Small Business Banking"
+    },
+    {
+      "Company": "Sunshine Studios",
+      "ContactFL": "Amanda Brinkman",
+      "Title": "Speaker"
+    },
+    {
+      "Company": "Sympera AI",
+      "ContactFL": "Sudharshan Krishnan",
+      "Title": "GTM Advisor"
+    },
+    {
+      "Company": "Sympera AI",
+      "ContactFL": "David Sosna"
+    },
+    {
+      "Company": "TD Bank",
+      "ContactFL": "Todd Gardner",
+      "Title": "VP"
+    },
+    {
+      "Company": "TD Bank",
+      "ContactFL": "Ashley Scognamiglio",
+      "Title": "Small Business Deposit Product Manager"
+    },
+    {
+      "Company": "TD Bank",
+      "ContactFL": "Gregory Smaha",
+      "Title": "Senior Group Leader SBA – Portfolio and Project Management"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Archana Basarur",
+      "Title": "SVP, Marketing Analytics"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Rachel Castro",
+      "Title": "Head of Strategy, talech/Bento "
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Callie Hack",
+      "Title": "Designer"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Kristine Oberg",
+      "Title": "SVP, Business Banking Segmentation Strategy"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Ashley Rossiaky",
+      "Title": "UX Architect"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Amanda Schotzko",
+      "Title": "VP Customer Experience"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Eylem Seale",
+      "Title": "Product Manager"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Evelyn Thompson",
+      "Title": "VP Finance "
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Bhavya Vashisht",
+      "Title": "VP"
+    },
+    {
+      "Company": "U.S. Bank",
+      "ContactFL": "Rocio Werner",
+      "Title": "Business Banking Research Manager / VP"
+    },
+    {
+      "Company": "Veritex Bank",
+      "ContactFL": "Brian Kelso",
+      "Title": "EVP"
+    },
+    {
+      "Company": "Vertical IQ",
+      "ContactFL": "Nicolle DeLiso",
+      "Title": "Director of Training & Customer Success"
+    },
+    {
+      "Company": "Vertical IQ",
+      "ContactFL": "Ruth Keyes",
+      "Title": "Sr. Customer Success Manager"
+    },
+    {
+      "Company": "Vertical IQ",
+      "ContactFL": "Bobby Martin",
+      "Title": "President"
+    },
+    {
+      "Company": "Visa",
+      "ContactFL": "Gregory Banks"
+    },
+    {
+      "Company": "Visa",
+      "ContactFL": "Winston Conklin"
+    },
+    {
+      "Company": "Visa",
+      "ContactFL": "Edward Galvin",
+      "Title": "Head of US Commericial Product"
+    },
+    {
+      "Company": "Visa",
+      "ContactFL": "Kimberli Haverly",
+      "Title": "Head of GTM Operations"
+    },
+    {
+      "Company": "Visa",
+      "ContactFL": "Jacqueline Migliore",
+      "Title": "Director Commerical Payments"
+    },
+    {
+      "Company": "Visa",
+      "ContactFL": "Annie Randle"
+    },
+    {
+      "Company": "Visa",
+      "ContactFL": "Shawn Thomas"
+    },
+    {
+      "Company": "Wells Fargo",
+      "ContactFL": "Chris Fritz"
+    },
+    {
+      "Company": "Wintrust",
+      "ContactFL": "Kam Kniss",
+      "Title": "EVP, Digital Channels and Transaction Banking"
+    },
+    {
+      "Company": "Wintrust",
+      "ContactFL": "Chris Lantman",
+      "Title": "Senior VP & Manager, Digital Channels"
+    },
+    {
+      "Company": "Wintrust",
+      "ContactFL": "Mark Nieszel"
+    },
+    {
+      "Company": "Z Suite Tech",
+      "ContactFL": "Grant Armistead"
+    },
+    {
+      "ContactFL": "Lauren Desmangles"
+    },
+    {
+      "ContactFL": "Brian Haney "
+    },
+    {
+      "ContactFL": "Michael McKewin",
+      "Title": "Strategy Consultant"
+    }
+  ]
+}
