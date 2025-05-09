@@ -16,21 +16,25 @@ const Page = () => {
       Title,
     }));
 
-    return !sortKey
-      ? list
-      : [...list].sort((a, b) => {
-          const valA = (a[sortKey] || "").toLowerCase();
-          const valB = (b[sortKey] || "").toLowerCase();
+    return [...list].sort((a, b) => {
+      let valA, valB;
 
-          // Put empty/null values last
-          const aMissing = valA === "";
-          const bMissing = valB === "";
+      if (sortKey === "ContactFL") {
+        valA = (a.ContactFL || "").split(" ")[1].toLowerCase();
+        valB = (b.ContactFL || "").split(" ")[1].toLowerCase();
+      } else {
+        valA = (a[sortKey] || "").toLowerCase();
+        valB = (b[sortKey] || "").toLowerCase();
+      }
 
-          if (aMissing && !bMissing) return 1;
-          if (!aMissing && bMissing) return -1;
+      const aMissing = valA === "";
+      const bMissing = valB === "";
 
-          return flip ? valA.localeCompare(valB) : valB.localeCompare(valA);
-        });
+      if (aMissing && !bMissing) return 1;
+      if (!aMissing && bMissing) return -1;
+
+      return flip ? valA.localeCompare(valB) : valB.localeCompare(valA);
+    });
   };
   return (
     <div>
@@ -70,14 +74,14 @@ const Page = () => {
             {sortKey == "ContactFL" ? (
               <p>
                 Name: {item.ContactFL} <br />
-                Company: {item?.Company || "N/A"} <br />
-                Title: {item?.Title || "N/A"}
+                Company: {item?.Company || <em>N/A</em>} <br />
+                Title: {item?.Title || <em>N/A</em>}
               </p>
             ) : (
               <p>
-                Company: {item?.Company || <em> N/A</em>} <br />
+                Company: {item?.Company || <em>N/A</em>} <br />
                 Name: {item.ContactFL} <br />
-                Title: {item?.Title || "N/A"}
+                Title: {item?.Title || <em>N/A</em>}
               </p>
             )}
           </div>
