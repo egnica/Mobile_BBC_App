@@ -78,11 +78,13 @@ const Agenda = () => {
               </div>
               {reveal == item.id && (
                 <div className="reveal-contain">
-                  {item.description != "" && <p>{item.description}</p>}
+                  {item.description && (
+                    <p dangerouslySetInnerHTML={{ __html: item.description }} />
+                  )}
                   <div className="speaker-pic-contain">
                     {item.speakers.map((person, index) => {
                       return (
-                        person.name != "" && (
+                        person.fName && (
                           <>
                             <Link
                               key={index}
@@ -98,8 +100,15 @@ const Agenda = () => {
                                 <img alt={person.lName} src={person.photo} />
                                 <p>
                                   {person.fName} {person.lName}
+                                  <br />
+                                  <span
+                                    style={{
+                                      fontSize: ".9em",
+                                    }}
+                                  >
+                                    {person.company}
+                                  </span>
                                 </p>
-                                <p>{person.company}</p>
                               </div>
                             </Link>
                           </>

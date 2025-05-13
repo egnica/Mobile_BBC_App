@@ -25,7 +25,7 @@
       "title": "Innovation Showcase Opens",
       "day": "tues",
       "time": "9:00 am",
-      "description": "",
+      "description": null,
       "assets": "",
       "speakers": [
         {
@@ -76,7 +76,7 @@
     },
     {
       "id": "106",
-      "title": "Breaking Down Silos: ",
+      "title": "Breaking Down Silos ",
       "secondTitle": "Adapting to the Future of Banking",
       "day": "tues",
       "time": "10:20 am",
@@ -95,7 +95,7 @@
     },
     {
       "id": "107",
-      "title": "Catapulting Into 2025: ",
+      "title": "Catapulting Into 2025 ",
       "secondTitle": "What’s in Store for Small and Mid-Sized Businesses?",
       "time": "11:05 am",
       "day": "tues",
@@ -145,7 +145,7 @@
       "day": "tues",
       "time": "12:45 pm",
       "description": "Today's banking landscape demands more of bankers. Businesses are looking to their financial institutions for more than just basic services—they want strategic support to help them grow. This shift has led to a growing emphasis on banks gaining a better understanding of their customers. This approach allows banks to better understand their clients' needs by leveraging data tailored to the customer's business needs. This not only strengthens customer conversations but also fosters deeper, more lasting relationships. In this session, you'll explore how industry-specific research can equip banks to meet these evolving expectations and create stickier ties with business clients.",
-      "assets": "",
+      "assets": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/decks/6.5WinningWalletShare.pdf",
       "speakers": [
         {
           "fName": "Will",
@@ -266,7 +266,7 @@
       "day": "tues",
       "time": "4:00 pm",
       "description": "Join Visa and the National Center for the Middle Market for an engaging fireside chat that dives deep into the dynamic U.S. Emerging Middle Market (EMM). In this session, you'll discover:<br><ul style='padding-left: 40px;'><li>Why the EMM Matters: Understand the pivotal role of the emerging middle market in driving innovation and economic growth.</li><li>Evolving Needs of Emerging Companies: Gain insights into the unique challenges and opportunities facing these businesses today.</li><li>Unlocking Future Potential: Explore actionable strategies and best practices designed to empower emerging companies to thrive in a competitive landscape.</li></ul>",
-      "assets": "",
+      "assets": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/decks/11.5UnlockingPotential.pdf",
       "speakers": [
         {
           "fName": "Doug",
@@ -352,7 +352,7 @@
       "day": "wed",
       "time": "8:05 am",
       "description": "Banking is built on numbers and risk management, but Amanda Brinkman makes a bold case: purpose is the key to lasting success. This isn’t just another talk about passion - it’s a strategic advantage. Amanda challenges the idea that success is purely financial, showing how purpose-driven professionals build stronger client relationships, drive innovation, and achieve better results. Through engaging stories and real-world examples, she reveals how aligning work with a deeper mission creates impact and long-term value. Attendees will leave with a fresh perspective and practical takeaways to see purpose in their work and lives.",
-      "assets": "",
+      "assets": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/decks/13.5WhyPurposeMatters.pdf",
       "speakers": [
         {
           "fName": "Amanda",
@@ -371,7 +371,7 @@
       "day": "wed",
       "time": "9:05 am",
       "description": "Small businesses are the backbone of local economies, but they continue to face complex challenges. This panel explores how financial institutions are stepping up with innovative solutions, including advances in digital tools, lending strategies, and unique partnerships, to meet the evolving needs of small business owners. Join us to learn how banks are combining technology with human touch to foster growth and resilience in their small business clients.",
-      "assets": "",
+      "assets": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/decks/14.5FuelingSBSuccess.pdf",
       "speakers": [
         {
           "fName": "Rachel",
@@ -406,7 +406,7 @@
       "day": "wed",
       "time": "9:45 am",
       "description": "This presentation will cover three key areas. First, we'll explore the dynamics of buying behaviors across different customer segments, focusing on how to effectively leverage both physical and digital sales channels.  Second, we'll discuss streamlining our business product offerings to better meet the payment, receivable, and lending needs of our clients. Finally, we'll delve into redefining digital engagement strategies specifically for small and medium-sized businesses.",
-      "assets": "",
+      "assets": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/decks/15.5Digital-Human.pdf",
       "speakers": [
         {
           "fName": "Kamal",
@@ -442,7 +442,7 @@
       "day": "wed",
       "time": "10:30 am",
       "description": "In their push for digital transformation, many banks have deprioritized the personal service that once set them apart. But it doesn’t have to be a tradeoff.</br></br> This session explores how AI-powered tools can guide business bankers behind the scenes—helping them manage a broader client base, stay proactive, and focus on the right opportunities. AI helps bankers scale personalized service without losing the human connection—by identifying customer needs and prompting timely, relevant conversations that lead to deeper, more profitable relationships.</br></br>Walk away with real-world examples and practical ideas you can apply immediately.",
-      "assets": "",
+      "assets": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/decks/16.5TheAI-PoweredBank.pdf",
       "speakers": [
         {
           "fName": "David",
@@ -496,7 +496,7 @@
       "day": "wed",
       "time": "11:50 am",
       "description": "Discover firsthand insights from Boomer Muth on scaling a business from inception to over half a billion dollars in revenue, focusing on the critical role banking and financial partnerships play in growth trajectories. Learn about the friction points encountered, missed opportunities, and how embracing a high-leverage mindset—paired with the right people and technologies—can unlock exponential growth. This session synthesizes key learnings from the conference into actionable strategies for banking leaders seeking to enhance their impact and drive customer success.",
-      "assets": "",
+      "assets": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/decks/18.5BuildingScaleTogether.pdf",
       "speakers": [
         {
           "fName": "Boomer",
