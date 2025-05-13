@@ -43,7 +43,7 @@
       "title": "Opening Remarks",
       "day": "tues",
       "time": "10:00 am",
-      "description": "Opening Remarks",
+      "description": " ",
       "assets": "",
       "speakers": [
         {
@@ -61,7 +61,7 @@
       "title": "Welcome and Introductions",
       "day": "tues",
       "time": "10:10 am",
-      "description": "Welcome and Introductions",
+      "description": " ",
       "assets": "",
       "speakers": [
         {
@@ -167,7 +167,7 @@
     },
     {
       "id": "111",
-      "title": "Digital Business Banking Panel: ",
+      "title": "Digital Business Banking Panel ",
       "secondTitle": "Leveling Up the Digital Banking Stack",
       "day": "tues",
       "time": "1:40 pm",
@@ -195,7 +195,7 @@
 
     {
       "id": "109",
-      "title": "Wintrust Data Hub: ",
+      "title": "Wintrust Data Hub",
       "secondTitle": "Enhancing Commercial Reporting & Connectivity",
       "day": "tues",
       "time": "2:15 pm",
@@ -242,7 +242,7 @@
 
     {
       "id": "112",
-      "title": "From Transactions to Intelligence: ",
+      "title": "From Transactions to Intelligence",
       "secondTitle": "The Wells Fargo Shift to Data-Driven Banking",
       "day": "tues",
       "time": "3:20 pm",
@@ -261,7 +261,7 @@
     },
     {
       "id": "113",
-      "title": "Unlocking Potential: ",
+      "title": "Unlocking Potential",
       "secondTitle": "Empowering the Emerging Middle Market ",
       "day": "tues",
       "time": "4:00 pm",
@@ -347,7 +347,7 @@
     },
     {
       "id": "117",
-      "title": "Keynote: ",
+      "title": "Keynote",
       "secondTitle": "Why Purpose Matters",
       "day": "wed",
       "time": "8:05 am",
@@ -366,7 +366,7 @@
     },
     {
       "id": "118",
-      "title": "Fueling Small Business Success: ",
+      "title": "Fueling Small Business Success",
       "secondTitle": "Bank Resources that Drive Growth and Resilience",
       "day": "wed",
       "time": "9:05 am",
@@ -401,7 +401,7 @@
     },
     {
       "id": "119",
-      "title": "Digital + Human: ",
+      "title": "Digital + Human",
       "secondTitle": "Earning Full Share of Wallet at Acquisition and Channel Optimization",
       "day": "wed",
       "time": "9:45 am",
@@ -437,7 +437,7 @@
     },
     {
       "id": "120",
-      "title": "The AI-Powered Banker: ",
+      "title": "The AI-Powered Banker",
       "secondTitle": "Driving Growth with a Human Touch ",
       "day": "wed",
       "time": "10:30 am",
@@ -464,7 +464,7 @@
     },
     {
       "id": "101",
-      "title": "The Future of CX:",
+      "title": "The Future of CX",
       "secondTitle": "Balancing Tech, Trust & Transformation",
       "day": "wed",
       "time": "11:20 am",
@@ -491,7 +491,7 @@
     },
     {
       "id": "123",
-      "title": "Building Scale Together: ",
+      "title": "Building Scale Together",
       "secondTitle": "Removing Friction Between Banks and High-Growth Companies",
       "day": "wed",
       "time": "11:50 am",

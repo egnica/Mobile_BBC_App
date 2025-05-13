@@ -79,7 +79,18 @@ const Agenda = () => {
               {reveal == item.id && (
                 <div className="reveal-contain">
                   {item.description && (
-                    <p dangerouslySetInnerHTML={{ __html: item.description }} />
+                    <>
+                      <p>
+                        {item.title}
+                        <br />
+                        <span>
+                          <em>{item.secondTitle}</em>
+                        </span>
+                      </p>
+                      <p
+                        dangerouslySetInnerHTML={{ __html: item.description }}
+                      />
+                    </>
                   )}
                   <div className="speaker-pic-contain">
                     {item.speakers.map((person, index) => {

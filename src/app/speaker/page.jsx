@@ -66,7 +66,9 @@ const Speaker = () => {
         <p>loading....</p>
       ) : (
         <div>
-          <h2>{person.fName}</h2>
+          <h2>
+            {person.fName} {person.lName}{" "}
+          </h2>
           <img src={person.photo} />
           <p style={{ margin: 0 }}>
             <strong>{person.company}</strong>
