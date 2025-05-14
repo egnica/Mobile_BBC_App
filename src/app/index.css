@@ -83,7 +83,7 @@ a {
 
   border-radius: 10px;
   background-color: #81c671d1;
-  padding: 2%;
+  padding: 2% 4%;
   margin: 2%;
   transition: all 0.2s ease-in-out;
 }
